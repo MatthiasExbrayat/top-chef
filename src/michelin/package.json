@@ -1,0 +1,23 @@
+{
+  "name": "michelin",
+  "version": "1.0.0",
+  "description": "A package to get all starred restaurants in france from the michelin site.",
+  "main": "michelin.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "^0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restaurants",
+    "michelin",
+    "starred"
+  ],
+  "author": "Matthias Exbrayat",
+  "license": "ISC"
+}
