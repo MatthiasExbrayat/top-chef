@@ -1,3 +1,3 @@
-var michelin = require("michelin");
+var michelin = require("./michelin");
 
-console.log(michelin.get());
+michelin.getRestaurants();
