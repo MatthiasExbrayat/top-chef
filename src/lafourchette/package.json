@@ -1,0 +1,15 @@
+{
+  "name": "lafourchette",
+  "version": "1.0.0",
+  "description": "module to scrap la fourchette site to get deals for all the restaurants returned by the michelin module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lafourchette",
+    "deal"
+  ],
+  "author": "Matthias Exbrayat",
+  "license": "ISC"
+}
