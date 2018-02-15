@@ -13,7 +13,7 @@ module.exports.getRestaurants = function(){
   setTimeout(function(){
     console.log("\n-------Getting Names and URLs of starred restaurants-------\n");
     for(i = 0; i < 35; i++){
-      url = 'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin'.concat('/page-',i);
+      url = 'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin'.concat('/page-',i+1);
       request(url, function (error, response, html) {
         if (!error && response.statusCode == 200) {
           var $ = cheerio.load(html);
@@ -60,7 +60,7 @@ module.exports.getRestaurants = function(){
     }
     jsonfile.writeFile('michelin_restaurants_list.json', restaurants, {spaces : 2}, function(err){})
     console.log("-------Json file \"michelin_restaurants_list.json\" created !-------\n");
-  }, 70000);
+  }, 90000);
 
   return restaurants;
 }
