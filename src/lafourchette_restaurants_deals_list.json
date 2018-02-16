@@ -10,7 +10,29 @@
       "street": "51 rue Jouffroy-d'Abbans",
       "postalCode": "75017",
       "city": "Paris 17"
-    }
+    },
+    "idLafourchette": "1923",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Prestige 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€250.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Gourmands 185€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Jardin des Remparts",
@@ -23,7 +45,10 @@
       "street": "10 rue Hôtel-Dieu",
       "postalCode": "21200",
       "city": "Beaune"
-    }
+    },
+    "idLafourchette": "4988",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Frédéric Doucet",
@@ -49,7 +74,41 @@
       "street": "39 Avenue George V",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "26112",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Saint-Valentin avec une coupe de Champagne Lenoble 245,00 €",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Saint-Valentin avec accords mets et vins 340,00 €",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu tout Champagne 'Amour de Deutz' 2008 315,00 €",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 135€ le soir",
+        "exclusions": "Price per person.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 85€ le midi",
+        "exclusions": "Price per person.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Pré Catelan",
@@ -88,7 +147,17 @@
       "street": "110 Galerie de Valois - Jardin du Palais Royal",
       "postalCode": "75001",
       "city": "Paris 01"
-    }
+    },
+    "idLafourchette": "21741",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€152.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Saint-Estève",
@@ -114,7 +183,10 @@
       "street": "17 r. de la Poissonnerie",
       "postalCode": "68000",
       "city": "Colmar"
-    }
+    },
+    "idLafourchette": "5603",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Auberge de l'Île Barbe",
@@ -127,7 +199,22 @@
       "street": "1 Place Notre-Dame",
       "postalCode": "69009",
       "city": "Lyon 09"
-    }
+    },
+    "idLafourchette": "548",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 158€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 50€",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Tour des Vents",
@@ -140,7 +227,17 @@
       "street": "Le Moulin de Malfourat",
       "postalCode": "24240",
       "city": "Monbazillac"
-    }
+    },
+    "idLafourchette": "75533",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€80.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Les Pêcheurs",
@@ -166,7 +263,10 @@
       "street": "80 chemin des Anglais",
       "postalCode": "11000",
       "city": "Carcassonne"
-    }
+    },
+    "idLafourchette": "31135",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Restaurant",
@@ -179,7 +279,22 @@
       "street": "13 rue des Beaux-Arts",
       "postalCode": "75006",
       "city": "Paris 06"
-    }
+    },
+    "idLafourchette": "297223",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "Brunch 35€",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Christophe Bacquié",
@@ -205,7 +320,10 @@
       "street": "1 Avenue du Docteur Jean Laigret",
       "postalCode": "41000",
       "city": "Blois"
-    }
+    },
+    "idLafourchette": "2728",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Paul Bocuse",
@@ -218,7 +336,10 @@
       "street": "40 Rue de la Plage",
       "postalCode": "69660",
       "city": "Collonges-au-Mont-d'Or"
-    }
+    },
+    "idLafourchette": "5355",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Tablettes de Jean-Louis Nomicos",
@@ -270,7 +391,34 @@
       "street": "3 rue du Général de Gaulle",
       "postalCode": "78490",
       "city": "Le Tremblay-sur-Mauldre"
-    }
+    },
+    "idLafourchette": "26601",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 125€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 65€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu  49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Paloma",
@@ -283,7 +431,17 @@
       "street": "47 Avenue du Moulin de la Croix",
       "postalCode": "06250",
       "city": "Mougins"
-    }
+    },
+    "idLafourchette": "38822",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€180.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Patrick Jeffroy",
@@ -309,7 +467,10 @@
       "street": "12 rue Royale",
       "postalCode": "69001",
       "city": "LYON"
-    }
+    },
+    "idLafourchette": "6794",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Moulin du Roc",
@@ -322,7 +483,28 @@
       "street": "Avenue Eugène Le Roy",
       "postalCode": "24530",
       "city": "Champagnac-de-Belair"
-    }
+    },
+    "idLafourchette": "7133",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 125€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 49€",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "William Frachot",
@@ -335,7 +517,10 @@
       "street": "5 rue Michelet",
       "postalCode": "21000",
       "city": "DIJON"
-    }
+    },
+    "idLafourchette": "3931",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Hostellerie Bérard",
@@ -348,7 +533,29 @@
       "street": "Avenue Gabriel-Péri",
       "postalCode": "83740",
       "city": "LA-CADIERE-D'AZUR"
-    }
+    },
+    "idLafourchette": "416",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "\"Menu \"Le Randour de la Bastide\" 58€\"",
+        "exclusions": "Prix par personne. En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "\"Menu \"Pour les gourmands\" 92€\"",
+        "exclusions": "Prix par personne. En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "\"Menu \"Moment de plaisir to partager\" 169€\"",
+        "exclusions": "Pour l'ensemble des convives de la table.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Chiberta",
@@ -361,7 +568,23 @@
       "street": "3 Rue Arsène Houssaye",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "2828",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Découverte 110€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "€165.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Almandin",
@@ -374,7 +597,17 @@
       "street": "Boulevard de l'Almandin",
       "postalCode": "66750",
       "city": "Saint-Cyprien"
-    }
+    },
+    "idLafourchette": "566",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Mathieu Pacaud - Histoires",
@@ -400,7 +633,10 @@
       "street": "6 r. Dr Bretonneau",
       "postalCode": "37150",
       "city": "Chenonceaux"
-    }
+    },
+    "idLafourchette": "2934",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Cloître",
@@ -413,7 +649,29 @@
       "street": "Le Cloitre",
       "postalCode": "04300",
       "city": "Mane"
-    }
+    },
+    "idLafourchette": "11050",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 115€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Au Trou Gascon",
@@ -426,7 +684,23 @@
       "street": "40 r. Taine",
       "postalCode": "75012",
       "city": "Paris 12"
-    }
+    },
+    "idLafourchette": "69375",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Gourmands 89€",
+        "exclusions": "Menu en Exclusivité LaFourchette. En réservant ce menu il ne sera pas possible de commander à la carte, ce menu doit être consommé par l'ensemble des convives.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "€115.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Sur Mesure par Thierry Marx",
@@ -439,7 +713,29 @@
       "street": "251 r. St-Honoré",
       "postalCode": "75001",
       "city": "Paris 01"
-    }
+    },
+    "idLafourchette": "53046",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€290.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "« Diner » menu from 190€ to 250€",
+        "exclusions": "Price per person.\nExcluding  beverages.\nfrom Tuesday to Saturday and public holidays.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "« Lunch » menu from 85€ to 150€",
+        "exclusions": "Price per person.\nExcluding  beverages.\nFrom Tuesday to Friday only, excluding public holidays.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Relais Bernard Loiseau",
@@ -452,7 +748,35 @@
       "street": "2, rue d'Argentine",
       "postalCode": "21210",
       "city": "Saulieu"
-    }
+    },
+    "idLafourchette": "3303",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 150€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 245€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 195€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Violon d'Ingres",
@@ -465,7 +789,29 @@
       "street": "135 route St-Dominique",
       "postalCode": "75007",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "205737",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu \"Prestige\"",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "€150.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included. 10/02, 14/02, diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Dégustation 130€",
+        "exclusions": "Price per person. Drink not included. For the whole table.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Quinzième - Cyril Lignac",
@@ -491,7 +837,45 @@
       "street": "le bourg",
       "postalCode": "69620",
       "city": "Bagnols"
-    }
+    },
+    "idLafourchette": "28453",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Surprise Menu 140€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 65€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 28€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 32€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 26€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Assiette Champenoise",
@@ -504,7 +888,10 @@
       "street": "40 av. Paul Vaillant-Couturier",
       "postalCode": "51430",
       "city": "Tinqueux"
-    }
+    },
+    "idLafourchette": "3806",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Château de Pray",
@@ -530,7 +917,10 @@
       "street": "Route de Saint-Hilaire",
       "postalCode": "11000",
       "city": "Carcassonne"
-    }
+    },
+    "idLafourchette": "3018",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Têtedoie",
@@ -543,7 +933,23 @@
       "street": "4 rue du Professeur Pierre MARION",
       "postalCode": "69005",
       "city": "Lyon 05"
-    }
+    },
+    "idLafourchette": "3997",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 140€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 110€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Barbacane",
@@ -556,7 +962,29 @@
       "street": "Place Auguste-Pierre-Pont",
       "postalCode": "11000",
       "city": "Carcassonne"
-    }
+    },
+    "idLafourchette": "26494",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€125.00 Valentine's Day set menu",
+        "exclusions": "Price per person. For tables with a maximum of 4 people. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu tout Truffe 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Déjeuner 39€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Fanal",
@@ -569,7 +997,10 @@
       "street": "17 Avenue du Fontaulé",
       "postalCode": "66650",
       "city": "Banyuls-sur-Mer"
-    }
+    },
+    "idLafourchette": "294745",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Carré des Feuillants",
@@ -582,7 +1013,17 @@
       "street": "14 rue de Castiglione",
       "postalCode": "75001",
       "city": "Paris 01"
-    }
+    },
+    "idLafourchette": "69372",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Gourmands 149€",
+        "exclusions": "Menu en Exclusivité LaFourchette. En réservant ce menu il ne sera pas possible de commander à la carte, ce menu doit être consommé par l'ensemble des convives.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Taillevent",
@@ -621,7 +1062,16 @@
       "street": "11 Rue Treilhard",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "310829",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% on « MENU AVEC SAKE », or 120,00 € instead of 150,00 €!",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Mirazur",
@@ -660,7 +1110,10 @@
       "street": "9 quai de la Bourse",
       "postalCode": "76000",
       "city": "Rouen"
-    }
+    },
+    "idLafourchette": "3157",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Magasin aux Vivres",
@@ -673,7 +1126,10 @@
       "street": "5 Avenue Ney",
       "postalCode": "57000",
       "city": "Metz"
-    }
+    },
+    "idLafourchette": "5109",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Rotonde",
@@ -686,7 +1142,17 @@
       "street": "200 avenue du Casino",
       "postalCode": "69890",
       "city": "LA-TOUR-DE-SALVAGNY"
-    }
+    },
+    "idLafourchette": "73740",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Gourmands 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Relais de la Poste",
@@ -712,7 +1178,29 @@
       "street": "20 Rue du Louvre",
       "postalCode": "75001",
       "city": "Paris 01"
-    }
+    },
+    "idLafourchette": "205419",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Pressoir",
@@ -725,7 +1213,10 @@
       "street": "7 r. de l'Hôpital",
       "postalCode": "56890",
       "city": "Saint-Avé"
-    }
+    },
+    "idLafourchette": "18188",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Aparté",
@@ -751,7 +1242,17 @@
       "street": "chemin du lac",
       "postalCode": "04160",
       "city": "Château-Arnoux"
-    }
+    },
+    "idLafourchette": "953",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€90.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Aux Pesked",
@@ -777,7 +1278,23 @@
       "street": "37 avenue Hoche",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "8601",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Le Grand Déjeuner à l’Italienne 126€",
+        "exclusions": "Prix par personne. Menu unique : il ne sera pas possible de commander à la carte.\nDisponible le dimanche de 12h00 à 14h00,126€ par personne.\nAvailable on Sundays, from 12PM to 2 PM, 126€ per person.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Alain Llorca",
@@ -790,7 +1307,10 @@
       "street": "350 Route de St-Paul",
       "postalCode": "06480",
       "city": "La Colle-sur-Loup"
-    }
+    },
+    "idLafourchette": "277471",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Auberge du Vieux Puits",
@@ -816,7 +1336,17 @@
       "street": "Place Kléber",
       "postalCode": "69006",
       "city": "Lyon 06"
-    }
+    },
+    "idLafourchette": "12900",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Mardis Gourmands 150€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "L'Oustau de Baumanière",
@@ -842,7 +1372,10 @@
       "street": "D18",
       "postalCode": "24240",
       "city": "Monestier"
-    }
+    },
+    "idLafourchette": "16314",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Bruno",
@@ -894,7 +1427,10 @@
       "street": "247 avenue de Provence",
       "postalCode": "06140",
       "city": "VENCE"
-    }
+    },
+    "idLafourchette": "6448",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Quincangrogne",
@@ -907,7 +1443,10 @@
       "street": "7 Rue de l'Abreuvoir",
       "postalCode": "77400",
       "city": "Dampmart"
-    }
+    },
+    "idLafourchette": "78533",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "J.-M. Pérochon",
@@ -946,7 +1485,10 @@
       "street": "D2007",
       "postalCode": "45290",
       "city": "Les Bézards"
-    }
+    },
+    "idLafourchette": "2714",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Stéphane Derbord",
@@ -959,7 +1501,35 @@
       "street": "10 Place du Président Wilson",
       "postalCode": "21000",
       "city": "Dijon"
-    }
+    },
+    "idLafourchette": "5619",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 82€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 55€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Relais de la Poste",
@@ -972,7 +1542,10 @@
       "street": "21 rue du Gén. -de-Gaulle",
       "postalCode": "67610",
       "city": "LA-WANTZENAU"
-    }
+    },
+    "idLafourchette": "2876",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Coopérative",
@@ -1037,7 +1610,10 @@
       "street": "31 Avenue Franklin Delano Roosevelt",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "74933",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Ivan Vautier",
@@ -1050,7 +1626,10 @@
       "street": "3 avenue Henry-Chéron",
       "postalCode": "14000",
       "city": "Caen"
-    }
+    },
+    "idLafourchette": "26460",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Coquillage",
@@ -1076,7 +1655,29 @@
       "street": "13 Vieille-Route-des-Pensières",
       "postalCode": "74290",
       "city": "Veyrier-du-Lac"
-    }
+    },
+    "idLafourchette": "15264",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 160€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 169€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 98€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Bouche à Oreille",
@@ -1115,7 +1716,23 @@
       "street": "90 route des Framboises",
       "postalCode": "74140",
       "city": "Machilly"
-    }
+    },
+    "idLafourchette": "10332",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€125.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included. 13/02 diner, 14/02 lunch and diner, and 15/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Maison Clovis",
@@ -1128,7 +1745,17 @@
       "street": "19 bd Brotteaux",
       "postalCode": "69006",
       "city": "Lyon"
-    }
+    },
+    "idLafourchette": "324443",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€160.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Loiseau rive Gauche",
@@ -1141,7 +1768,28 @@
       "street": "5 rue Bourgogne",
       "postalCode": "75007",
       "city": "Paris 07"
-    }
+    },
+    "idLafourchette": "25",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 120€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€120.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 90€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Hostellerie de l'Abbaye de la Celle",
@@ -1154,7 +1802,17 @@
       "street": "10 Place Général de Gaulle",
       "postalCode": "83170",
       "city": "La Celle"
-    }
+    },
+    "idLafourchette": "25901",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€120.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Marelle",
@@ -1193,7 +1851,10 @@
       "street": "pl. du Fronton",
       "postalCode": "64250",
       "city": "Ainhoa"
-    }
+    },
+    "idLafourchette": "378",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Moulin de l'Abbaye",
@@ -1206,7 +1867,10 @@
       "street": "1 avenue Pierre de Bourdeilles",
       "postalCode": "24310",
       "city": "BRANTOME"
-    }
+    },
+    "idLafourchette": "26352",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Chez Michèle",
@@ -1219,7 +1883,10 @@
       "street": "57 rue Principale",
       "postalCode": "57810",
       "city": "Languimberg"
-    }
+    },
+    "idLafourchette": "16363",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Kléber",
@@ -1245,7 +1912,29 @@
       "street": "54 r. Bourgogne",
       "postalCode": "75007",
       "city": "Paris 07"
-    }
+    },
+    "idLafourchette": "26201",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Gourmand Menu 118€ All inclusive",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu  88€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Lunch Menu 37€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Dyades au Domaine des Étangs",
@@ -1284,7 +1973,10 @@
       "street": "quartier Helbarron",
       "postalCode": "64310",
       "city": "Saint-Pée-sur-Nivelle"
-    }
+    },
+    "idLafourchette": "5305",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Restaurant du Château",
@@ -1310,7 +2002,10 @@
       "street": "7 rue du Lavoir",
       "postalCode": "21520",
       "city": "Courban"
-    }
+    },
+    "idLafourchette": "16982",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Pergolèse",
@@ -1336,7 +2031,47 @@
       "street": "31 Rue Jean Francois Maufoux",
       "postalCode": "21200",
       "city": "Beaune"
-    }
+    },
+    "idLafourchette": "3304",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 119€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 25€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "En Marge",
@@ -1362,7 +2097,10 @@
       "street": "120 r. Croix-de-Seguey",
       "postalCode": "33000",
       "city": "Bordeaux"
-    }
+    },
+    "idLafourchette": "7872",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Chaumière",
@@ -1401,7 +2139,10 @@
       "street": "Anse de Maldormé - Corniche J. F. Kennedy",
       "postalCode": "13007",
       "city": "Marseille 07"
-    }
+    },
+    "idLafourchette": "9350",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Hostellerie du Rosenmeer",
@@ -1427,7 +2168,10 @@
       "street": "24 Rue Saint-Manvieu",
       "postalCode": "14000",
       "city": "Caen"
-    }
+    },
+    "idLafourchette": "27058",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Licorne Royale",
@@ -1440,7 +2184,10 @@
       "street": "27 Place Isaac Benserade",
       "postalCode": "27480",
       "city": "Lyons-la-Forêt"
-    }
+    },
+    "idLafourchette": "5632",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Alléno Paris au Pavillon Ledoyen",
@@ -1466,7 +2213,10 @@
       "street": "7 Rue des Cigognes",
       "postalCode": "68770",
       "city": "Ammerschwihr"
-    }
+    },
+    "idLafourchette": "206163",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Auberge de la Pomme",
@@ -1479,7 +2229,10 @@
       "street": "44 rue de l' eure",
       "postalCode": "27340",
       "city": "Les Damps"
-    }
+    },
+    "idLafourchette": "32584",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Domaine de Clairefontaine",
@@ -1492,7 +2245,10 @@
       "street": "chemin des Fontanettes",
       "postalCode": "38121",
       "city": "Chonas-l'Amballan"
-    }
+    },
+    "idLafourchette": "22878",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Faventia",
@@ -1505,7 +2261,10 @@
       "street": "3100 route de Bagnols-en-Forêt",
       "postalCode": "83440",
       "city": "Tourrettes"
-    }
+    },
+    "idLafourchette": "324473",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Ekrin by Laurent Azoulay",
@@ -1544,7 +2303,17 @@
       "street": "14 rue du Pont de Morge",
       "postalCode": "63350",
       "city": "MARINGUES"
-    }
+    },
+    "idLafourchette": "9759",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€130.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Anne de Bretagne",
@@ -1557,7 +2326,17 @@
       "street": "163, Boulevard de la Tara",
       "postalCode": "44770",
       "city": "La Plaine-sur-Mer"
-    }
+    },
+    "idLafourchette": "35732",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€190.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included. 10/02 diner, 11/02 lunch, 14/02 lunch and diner, 15/02 lunch and diner, 16/02 lunch and diner, 17/02 lunch and diner, and 18/02 lunch.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Les Morainières",
@@ -1570,7 +2349,10 @@
       "street": "route de Marétel",
       "postalCode": "73170",
       "city": "Jongieux"
-    }
+    },
+    "idLafourchette": "10427",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Scène",
@@ -1583,7 +2365,10 @@
       "street": "33 Avenue George V",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "5497",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Moulin de la Gorce",
@@ -1622,7 +2407,23 @@
       "street": "6-8 rue Duphot",
       "postalCode": "75001",
       "city": "Paris 01"
-    }
+    },
+    "idLafourchette": "9228",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu Gourmands 130€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Le Clos des Sens",
@@ -1635,7 +2436,32 @@
       "street": "13 r. J. -Mermoz",
       "postalCode": "74940",
       "city": "Annecy"
-    }
+    },
+    "idLafourchette": "7130",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 70€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu \"Découverte Grande Fête \" en 10 saveurs 190€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu \"Découverte Plein d'Envies\" en 8 saveurs 160€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu \"Découverte Pour Voir...\" en 5 saveurs 120€",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Chantecler",
@@ -1648,7 +2474,35 @@
       "street": "37 Promenade des Anglais",
       "postalCode": "06000",
       "city": "NICE"
-    }
+    },
+    "idLafourchette": "301377",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€180.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Grand Menu Signature by Jean-Denis 230,00 €",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 180€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Chantecler à 130€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Carmin",
@@ -1700,7 +2554,29 @@
       "street": "6 r. des Chanoines",
       "postalCode": "67860",
       "city": "Rhinau"
-    }
+    },
+    "idLafourchette": "15068",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 99€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 73€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Tentation 56€",
+        "exclusions": "Price per person. Even if you reserve with this menu, you can order whatever you want in the restaurant.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Benoit",
@@ -1713,7 +2589,17 @@
       "street": "20 Rue St-Martin",
       "postalCode": "75004",
       "city": "Paris 04"
-    }
+    },
+    "idLafourchette": "25896",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Mardis Gourmands 125€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Restaurant du Palais Royal",
@@ -1726,7 +2612,17 @@
       "street": "110 Galerie de Valois - Jardin du Palais Royal",
       "postalCode": "75001",
       "city": "Paris 01"
-    }
+    },
+    "idLafourchette": "21741",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€152.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'O des Vignes",
@@ -1778,7 +2674,23 @@
       "street": "rue Jean-Honoré Carle",
       "postalCode": "06210",
       "city": "La Napoule"
-    }
+    },
+    "idLafourchette": "682",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu Mardis Gourmands 125€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "JAN",
@@ -1830,7 +2742,23 @@
       "street": "55 Rue de Versailles",
       "postalCode": "92410",
       "city": "VILLE-D'AVRAY"
-    }
+    },
+    "idLafourchette": "8973",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "Group Special: Menu 66€",
+        "exclusions": "Choix d’un menu unique pour tous les convives\nToutes nos viandes bovines sont originaires d’Allemagne",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Auberge La Pomme d'Api",
@@ -1869,7 +2797,10 @@
       "street": "Parc naturel régional du Verdon, Chemin de Quinson",
       "postalCode": "04360",
       "city": "Moustiers-Sainte-Marie"
-    }
+    },
+    "idLafourchette": "57531",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Relais des Moines",
@@ -1882,7 +2813,17 @@
       "street": "route de Ste-Roseline",
       "postalCode": "83460",
       "city": "Les Arcs"
-    }
+    },
+    "idLafourchette": "132",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€120.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Cyril Attrazic",
@@ -1895,7 +2836,10 @@
       "street": "10 rte du Languedoc",
       "postalCode": "48130",
       "city": "Aumont-Aubrac"
-    }
+    },
+    "idLafourchette": "26469",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Pont de l'Ouysse",
@@ -1908,7 +2852,10 @@
       "street": "D23",
       "postalCode": "46200",
       "city": "Lacave"
-    }
+    },
+    "idLafourchette": "62590",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Hautes Roches",
@@ -1921,7 +2868,10 @@
       "street": "86 quai de Loire",
       "postalCode": "37210",
       "city": "Rochecorbon"
-    }
+    },
+    "idLafourchette": "2819",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Auberge Tiegezh",
@@ -1934,7 +2884,10 @@
       "street": "7 Place de la Gare",
       "postalCode": "56380",
       "city": "Guer"
-    }
+    },
+    "idLafourchette": "51875",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Grand Cerf",
@@ -1947,7 +2900,10 @@
       "street": "50 rte Nationale",
       "postalCode": "51500",
       "city": "Montchenot"
-    }
+    },
+    "idLafourchette": "5935",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Jardin de Benjamin",
@@ -1973,7 +2929,17 @@
       "street": "Carrefour de Longchamp",
       "postalCode": "75016",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "122",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-40% off the \"à la carte\" menu",
+        "exclusions": "Conditions : Set Menu not included, Drinks not included. Minimums apply Start + Main or Main + Desert minimum per person. \nValid : every day lunch and dinner.",
+        "menu": false,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Villa Archange",
@@ -1986,7 +2952,10 @@
       "street": "Rue de l'Ouest",
       "postalCode": "06110",
       "city": "Le Cannet"
-    }
+    },
+    "idLafourchette": "8685",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Domaine des Hauts de Loire",
@@ -2077,7 +3046,10 @@
       "street": "av. du Revestel",
       "postalCode": "13260",
       "city": "Cassis"
-    }
+    },
+    "idLafourchette": "2788",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Château de Sully",
@@ -2103,7 +3075,17 @@
       "street": "bd de la Cahotte",
       "postalCode": "14360",
       "city": "Trouville-sur-Mer"
-    }
+    },
+    "idLafourchette": "60777",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "20% off food",
+        "exclusions": "Set menu and drinks not included. Valid for all orders of starter + a main or a main + dessert as a minimum per person.",
+        "menu": false,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "La Grand'Vigne",
@@ -2116,7 +3098,17 @@
       "street": "chemin de Smith-Haut-Lafitte",
       "postalCode": "33650",
       "city": "Martillac"
-    }
+    },
+    "idLafourchette": "5649",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€230.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Maison Kieny",
@@ -2129,7 +3121,10 @@
       "street": "7 Rue du Général de Gaulle",
       "postalCode": "68400",
       "city": "Riedisheim"
-    }
+    },
+    "idLafourchette": "2971",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Domaine des Séquoias",
@@ -2142,7 +3137,29 @@
       "street": "54 Vie-de-Boussieu",
       "postalCode": "38300",
       "city": "Ruy"
-    }
+    },
+    "idLafourchette": "1009",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 70€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Affaire 40€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu \"Suite Nº11\"  130€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Auberge des Glazicks",
@@ -2168,7 +3185,23 @@
       "street": "228 Rue de Rivoli",
       "postalCode": "75001",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "618",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Sunday Brunch at the hotel Meurice 95 €",
+        "exclusions": "Price per person. Unique brunch : it will not be possible to order \"à la carte\".",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Tea Time Dalí 54€",
+        "exclusions": "Price per person.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Lasserre",
@@ -2181,7 +3214,41 @@
       "street": "17 Avenue F. -D. -Roosevelt",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "250",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€250.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Plaisir 150€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu dégustation 190€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 150€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu Déjeuner 60€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Helen",
@@ -2194,7 +3261,17 @@
       "street": "3 r.Berryer",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "23454",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Lunch menu monday to friday 48€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Girardin",
@@ -2220,7 +3297,34 @@
       "street": "3 place Richard",
       "postalCode": "31320",
       "city": "Castanet-Tolosan"
-    }
+    },
+    "idLafourchette": "2591",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 110€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 58€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 38€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 28€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Vivarais",
@@ -2259,7 +3363,28 @@
       "street": "4 Passage Maurice Lenfant",
       "postalCode": "76000",
       "city": "Rouen"
-    }
+    },
+    "idLafourchette": "212971",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 65€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 28€",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Pic",
@@ -2285,7 +3410,10 @@
       "street": "4 Route de Wissembourg",
       "postalCode": "67510",
       "city": "Lembach"
-    }
+    },
+    "idLafourchette": "2310",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Jérôme Brochot",
@@ -2311,7 +3439,10 @@
       "street": "33 boulevard E. -Baudoin",
       "postalCode": "06160",
       "city": "Juan-les-Pins"
-    }
+    },
+    "idLafourchette": "203823",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le St-Placide",
@@ -2350,7 +3481,10 @@
       "street": "14 faubourg de Paris",
       "postalCode": "89300",
       "city": "Joigny"
-    }
+    },
+    "idLafourchette": "12792",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Radio",
@@ -2363,7 +3497,10 @@
       "street": "43 av. P. et M.-Curie",
       "postalCode": "63400",
       "city": "Chamalières"
-    }
+    },
+    "idLafourchette": "9611",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Arnsbourg",
@@ -2389,7 +3526,41 @@
       "street": "42 Avenue Gabriel",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "53038",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 250€",
+        "exclusions": "Disponible jusqu'à 14h au midi et 22h au soir.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu  195€",
+        "exclusions": "Disponible jusqu'à 14h au midi et 22h au soir.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu déjeuner 115€ en quatre services",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu déjeuner 95€ en trois services",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€450.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included. 10/02, 11/02, 12/02, 13/02, 14/02, 15/02, 16/02, 17/02, 18/02, diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Georges",
@@ -2428,7 +3599,17 @@
       "street": "461 chemin Peymeyan",
       "postalCode": "83440",
       "city": "Fayence"
-    }
+    },
+    "idLafourchette": "204609",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€95.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included. 14/02, 17/02, 18/02, lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Guy Savoy",
@@ -2467,7 +3648,17 @@
       "street": "9 pl. de la Madeleine",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "203143",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Arcane",
@@ -2480,7 +3671,10 @@
       "street": "39 Rue Lamarck",
       "postalCode": "75018",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "214579",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Haut-Allier",
@@ -2519,7 +3713,10 @@
       "street": "Place de la Fontaine",
       "postalCode": "15220",
       "city": "MARCOLES"
-    }
+    },
+    "idLafourchette": "23255",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Amaryllis",
@@ -2571,7 +3768,17 @@
       "street": "33 rue Chapelle St-Martin",
       "postalCode": "44115",
       "city": "HAUTE-GOULAINE"
-    }
+    },
+    "idLafourchette": "3485",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% off the \"à la carte\" menu",
+        "exclusions": "Set menus and drinks not included",
+        "menu": false,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Shang Palace",
@@ -2584,7 +3791,41 @@
       "street": "10 Avenue d'Iéna",
       "postalCode": "75016",
       "city": "Paris 16"
-    }
+    },
+    "idLafourchette": "8977",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 78€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 48€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Chinese New Year Dinner",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Emeraude Menu 128€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Jade Menu 98€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Sénéchal",
@@ -2610,7 +3851,17 @@
       "street": "25 rue Bayen",
       "postalCode": "75017",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "23087",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€250.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Amphitryon",
@@ -2636,7 +3887,76 @@
       "street": "3 Rue Vauban",
       "postalCode": "21000",
       "city": "Dijon"
-    }
+    },
+    "idLafourchette": "29826",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€135.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 48€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 48€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 165€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 48€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 48€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 48€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 55€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 25€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Maison Rostang",
@@ -2649,7 +3969,35 @@
       "street": "20 rue Rennequin",
       "postalCode": "75017",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "405",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Prestige 115€ Tout Compris, le midi !",
+        "exclusions": "Prix par personne. Un verre de vin par Plat. \nDu mardi au vendredi, le midi.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "€295.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Prestige 195€ Tout Compris, le soir !",
+        "exclusions": "Prix par personne. Un verre de vin par plat. \nDu lundi au vendredi, le soir.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "The \"All Black Truffle\" Menu in 5 or 6 steps",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Flaveur",
@@ -2662,7 +4010,10 @@
       "street": "25 Rue Gubernatis",
       "postalCode": "06000",
       "city": "Nice"
-    }
+    },
+    "idLafourchette": "38155",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Domaine du Colombier",
@@ -2701,7 +4052,29 @@
       "street": "32 av. Beau Soleil",
       "postalCode": "64200",
       "city": "Biarritz"
-    }
+    },
+    "idLafourchette": "6710",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€70.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€95.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Jean-Luc Tartarin",
@@ -2714,7 +4087,23 @@
       "street": "Square Saint-Roch",
       "postalCode": "76600",
       "city": "Le Havre"
-    }
+    },
+    "idLafourchette": "2698",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 198€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 69€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Les Explorateurs",
@@ -2740,7 +4129,17 @@
       "street": "Lieu-dit Lalande",
       "postalCode": "47140",
       "city": "Saint-Sylvestre-sur-Lot"
-    }
+    },
+    "idLafourchette": "66992",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 30€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Table de l'Espadon",
@@ -2766,7 +4165,10 @@
       "street": "2 rue Xavier Tronc",
       "postalCode": "30128",
       "city": "Garons"
-    }
+    },
+    "idLafourchette": "6986",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Ambroisie",
@@ -2792,7 +4194,10 @@
       "street": "33, Saint Martin du Fault",
       "postalCode": "87510",
       "city": "Nieul"
-    }
+    },
+    "idLafourchette": "5609",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Origine",
@@ -2805,7 +4210,10 @@
       "street": "26 rampe Cauchoise",
       "postalCode": "76000",
       "city": "Rouen"
-    }
+    },
+    "idLafourchette": "351691",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Scène Thélème",
@@ -2818,7 +4226,59 @@
       "street": "18 Rue Troyon",
       "postalCode": "75017",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "269585",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-50% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "€195.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu du Marché 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Promenade 129€",
+        "exclusions": "Prix par personne hors boisson.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 99 €",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Déjeuner 39€ ou 49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Escarbille",
@@ -2870,7 +4330,10 @@
       "street": "4 r. de la Libération",
       "postalCode": "49440",
       "city": "Loiré"
-    }
+    },
+    "idLafourchette": "6765",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le P'tit Polyte",
@@ -2896,7 +4359,35 @@
       "street": "5 r. de la Paix",
       "postalCode": "75002",
       "city": "Paris 02"
-    }
+    },
+    "idLafourchette": "4465",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu \"Carnet de voyage\" Accord Mets & Vins 275€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu \"Le Temps qui passe\" en Accord Mets & Vins 215€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu 185€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 145€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Neige d'Été",
@@ -2909,7 +4400,35 @@
       "street": "12 Rue de l'Amiral Roussin",
       "postalCode": "75015",
       "city": "Paris 15"
-    }
+    },
+    "idLafourchette": "46721",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€170.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu  60€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 100€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu déjeuner 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Antoine",
@@ -2922,7 +4441,17 @@
       "street": "10 av. de New-York",
       "postalCode": "75116",
       "city": "Paris 16"
-    }
+    },
+    "idLafourchette": "2185",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Mardis Gourmands 109€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Ô Saveurs",
@@ -2935,7 +4464,10 @@
       "street": "8 place Ormeaux au village",
       "postalCode": "31180",
       "city": "ROUFFIAC-TOLOSAN"
-    }
+    },
+    "idLafourchette": "8719",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Mare aux Oiseaux",
@@ -2974,7 +4506,35 @@
       "street": "bd C. Rebuffel",
       "postalCode": "06250",
       "city": "Mougins"
-    }
+    },
+    "idLafourchette": "26746",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu Soir 55€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 70€",
+        "exclusions": "Prix indiqué par personne. Boissons : 1/2 bouteille d'eau + 2 verres de vin + Café",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 39€",
+        "exclusions": "Prix indiqué par personne. Hors boisson.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "64° Le Restaurant",
@@ -3000,7 +4560,35 @@
       "street": "4 rue d'Assas",
       "postalCode": "75006",
       "city": "Paris 06"
-    }
+    },
+    "idLafourchette": "191",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Business Lunch 89€",
+        "exclusions": "Price par person.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "Le Menu Dégustation 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Le Menu Découverte 98€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 58€",
+        "exclusions": "Prix par personne. Valable du mardi au samedi midi.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Abeille",
@@ -3013,7 +4601,28 @@
       "street": "10 Avenue d'Iéna",
       "postalCode": "75016",
       "city": "Paris 16"
-    }
+    },
+    "idLafourchette": "8976",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Prestige 195€",
+        "exclusions": "Prix par personne. Valable uniquement du mardi au jeudi soir, hors jours fériés.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 260€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Tasting Menu 230€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Atelier de Gaztelur",
@@ -3026,7 +4635,17 @@
       "street": "Chemin de Gastelhur",
       "postalCode": "64200",
       "city": "Arcangues"
-    }
+    },
+    "idLafourchette": "78423",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€80.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Bastide St-Antoine",
@@ -3052,7 +4671,10 @@
       "street": "4 imp. Chenevottes",
       "postalCode": "21190",
       "city": "Chassagne-Montrachet"
-    }
+    },
+    "idLafourchette": "209193",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Épuisette",
@@ -3065,7 +4687,10 @@
       "street": "158 Vallon-des-Auffes",
       "postalCode": "13007",
       "city": "Marseille"
-    }
+    },
+    "idLafourchette": "22504",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Flocons de Sel",
@@ -3117,7 +4742,10 @@
       "street": "11 r. Raymond Losserand",
       "postalCode": "75014",
       "city": "Paris 14"
-    }
+    },
+    "idLafourchette": "15802",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Auberge Frankenbourg",
@@ -3143,7 +4771,17 @@
       "street": "1 Place Daviel",
       "postalCode": "13002",
       "city": "MARSEILLE"
-    }
+    },
+    "idLafourchette": "31008",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€318.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Les Terrasses de Lyon",
@@ -3156,7 +4794,10 @@
       "street": "25, montée Saint BArthelémy",
       "postalCode": "69005",
       "city": "Lyon 05"
-    }
+    },
+    "idLafourchette": "4697",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Nouvelle Auberge",
@@ -3169,7 +4810,10 @@
       "street": "9 route Nationale",
       "postalCode": "68230",
       "city": "Wihr-au-Val"
-    }
+    },
+    "idLafourchette": "38024",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Château d'Adoménil",
@@ -3195,7 +4839,29 @@
       "street": "5 place du Clocher",
       "postalCode": "33330",
       "city": "Saint-Emilion"
-    }
+    },
+    "idLafourchette": "4904",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 68€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Carte Blanche 185€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Plaisance 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Strasbourg",
@@ -3208,7 +4874,10 @@
       "street": "24 r. du Col. -Teyssier",
       "postalCode": "57230",
       "city": "Bitche"
-    }
+    },
+    "idLafourchette": "10382",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Hervé Busset",
@@ -3221,7 +4890,10 @@
       "street": "D901",
       "postalCode": "12320",
       "city": "Conques"
-    }
+    },
+    "idLafourchette": "128",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Alliance",
@@ -3234,7 +4906,29 @@
       "street": "5 Rue de Poissy",
       "postalCode": "75005",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "77626",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€250.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 175€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Alliance 110€ et Menu Tentation 90€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Sylvestre",
@@ -3247,7 +4941,17 @@
       "street": "79 rue St-Dominique",
       "postalCode": "75007",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "200546",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Grande Maison de Bernard Magrez",
@@ -3312,7 +5016,17 @@
       "street": "112 r. Fg St-Honoré",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "291337",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€650.00 Valentine's Day set menu",
+        "exclusions": "Price per person. For tables with a maximum of 4 people. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Les Jardins de l'Espadon",
@@ -3325,7 +5039,17 @@
       "street": "15 place Vendôme",
       "postalCode": "75001",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "269931",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Carte 95€ et 120€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Maison Lameloise",
@@ -3338,7 +5062,10 @@
       "street": "36 pl. d'Armes",
       "postalCode": "71150",
       "city": "Chagny"
-    }
+    },
+    "idLafourchette": "3552",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Bergerie",
@@ -3377,7 +5104,22 @@
       "street": "9 rue Balzac",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "36448",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "MENU DÉJEUNER de 39€ à 55€",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Ar Men Du",
@@ -3390,7 +5132,10 @@
       "street": "47 rue des îles",
       "postalCode": "29920",
       "city": "Névez"
-    }
+    },
+    "idLafourchette": "4961",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Atmosphères",
@@ -3442,7 +5187,10 @@
       "street": "La Chabotterie",
       "postalCode": "85260",
       "city": "Saint-Sulpice-le-Verdon"
-    }
+    },
+    "idLafourchette": "68308",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Hexagone",
@@ -3468,7 +5216,10 @@
       "street": "Rue Gabriel-Chevallier",
       "postalCode": "69460",
       "city": "VAUX-EN-BEAUJOLAIS"
-    }
+    },
+    "idLafourchette": "2755",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Amphitryon",
@@ -3507,7 +5258,10 @@
       "street": "189 Quai Ulysse Besnard",
       "postalCode": "41000",
       "city": "Blois"
-    }
+    },
+    "idLafourchette": "79692",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Impertinent",
@@ -3533,7 +5287,17 @@
       "street": "7, Promenade Amiral de Grasse",
       "postalCode": "06600",
       "city": "Antibes"
-    }
+    },
+    "idLafourchette": "1226",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€148.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Farçon",
@@ -3624,7 +5388,47 @@
       "street": "5 rte de la Corniche",
       "postalCode": "78270",
       "city": "Rolleboise"
-    }
+    },
+    "idLafourchette": "6792",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 36€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 29€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 47€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 54€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€110.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Lamartine",
@@ -3728,7 +5532,35 @@
       "street": "D235",
       "postalCode": "61140",
       "city": "Bagnoles-de-l'Orne"
-    }
+    },
+    "idLafourchette": "2740",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Set Menu 49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€99.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 63€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 99€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Auberge au Boeuf",
@@ -3741,7 +5573,10 @@
       "street": "Rue de l'Eglise",
       "postalCode": "67770",
       "city": "Sessenheim"
-    }
+    },
+    "idLafourchette": "44361",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Auberge au Boeuf",
@@ -3754,7 +5589,10 @@
       "street": "Rue de l'Eglise",
       "postalCode": "67770",
       "city": "Sessenheim"
-    }
+    },
+    "idLafourchette": "44361",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Château de Mercuès",
@@ -3767,7 +5605,10 @@
       "street": "Route du Château",
       "postalCode": "46090",
       "city": "Mercuès"
-    }
+    },
+    "idLafourchette": "13311",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Cap",
@@ -3806,7 +5647,10 @@
       "street": "Route de Murs",
       "postalCode": "84220",
       "city": "Joucas"
-    }
+    },
+    "idLafourchette": "1310",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Aux Anges",
@@ -3845,7 +5689,17 @@
       "street": "2,5 Place de la Comédie",
       "postalCode": "33000",
       "city": "Bordeaux"
-    }
+    },
+    "idLafourchette": "4905",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€300.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Kei",
@@ -4040,7 +5894,17 @@
       "street": "3 rue St-Philippe-du-Roule",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "713",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Mardis Gourmands 139€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Les Cèdres",
@@ -4066,7 +5930,10 @@
       "street": "333 Avenue des Martyrs de la Résistance",
       "postalCode": "40000",
       "city": "Mont-de-Marsan"
-    }
+    },
+    "idLafourchette": "8933",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Grand Hôtel du Lion d'Or",
@@ -4105,7 +5972,17 @@
       "street": "1 r. de Bas",
       "postalCode": "50560",
       "city": "Blainville-sur-Mer"
-    }
+    },
+    "idLafourchette": "387",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€134.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Cinq",
@@ -4157,7 +6034,29 @@
       "street": "Place du Mail",
       "postalCode": "26230",
       "city": "Grignan"
-    }
+    },
+    "idLafourchette": "18271",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu truffe d'hiver en 7 services 175€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Ephémère 39€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Les Berceaux",
@@ -4196,7 +6095,10 @@
       "street": "Place du Marche au Bois",
       "postalCode": "33330",
       "city": "Saint Emilion"
-    }
+    },
+    "idLafourchette": "44000",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Écrin",
@@ -4209,7 +6111,10 @@
       "street": "10 place de la Concorde",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "326081",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Voiles d'Or",
@@ -4248,7 +6153,17 @@
       "street": "1 bd de la Reine",
       "postalCode": "78000",
       "city": "Versailles"
-    }
+    },
+    "idLafourchette": "3131",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€365.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "SEPT",
@@ -4261,7 +6176,10 @@
       "street": "7 pl. St-Sernin",
       "postalCode": "31000",
       "city": "Toulouse"
-    }
+    },
+    "idLafourchette": "347931",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Pyramide-Patrick Henriroux",
@@ -4287,7 +6205,17 @@
       "street": "5 Boulevard du Maréchal Leclerc",
       "postalCode": "06310",
       "city": "Beaulieu-sur-Mer"
-    }
+    },
+    "idLafourchette": "24998",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€160.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Archeste",
@@ -4300,7 +6228,35 @@
       "street": "79 rue de la Tour",
       "postalCode": "75116",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "284489",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€180.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu autour de la Truffe et Caviar 180€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Carte Blanche le Soir 98€",
+        "exclusions": "Prix par personne. Hors boisson.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Carte Blanche le Midi 48€ et 68€",
+        "exclusions": "Prix par personne.\nHors boisson.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "1741",
@@ -4313,7 +6269,17 @@
       "street": "22 Quai des Bateliers",
       "postalCode": "67000",
       "city": "Strasbourg"
-    }
+    },
+    "idLafourchette": "19211",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€180.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included. 14/02, 15/02, 16/02, 17/02, 18/02, diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Arpège",
@@ -4339,7 +6305,17 @@
       "street": "28 bd René-Aimé-Lagabrielle",
       "postalCode": "60540",
       "city": "Belle-Église"
-    }
+    },
+    "idLafourchette": "28557",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-30% sur la carte",
+        "exclusions": "Set menus and drinks not included",
+        "menu": false,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Le Saint-James",
@@ -4352,7 +6328,10 @@
       "street": "3 pl. Camille-Hostein",
       "postalCode": "33270",
       "city": "BOULIAC"
-    }
+    },
+    "idLafourchette": "4977",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Bories",
@@ -4365,7 +6344,10 @@
       "street": "rte de l'Abbaye de Sénanque",
       "postalCode": "84220",
       "city": "Gordes"
-    }
+    },
+    "idLafourchette": "27598",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Toya",
@@ -4417,7 +6399,10 @@
       "street": "20 av. 2e-Division-Blindée",
       "postalCode": "61200",
       "city": "Argentan"
-    }
+    },
+    "idLafourchette": "2970",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Auberge de la Charme",
@@ -4430,7 +6415,17 @@
       "street": "12 r. de la Charme",
       "postalCode": "21370",
       "city": "Prenois"
-    }
+    },
+    "idLafourchette": "2579",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€99.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Pierre",
@@ -4469,7 +6464,10 @@
       "street": "27 pl. Lacaze Duthiers rčs de l'église",
       "postalCode": "29680",
       "city": "ROSCOFF"
-    }
+    },
+    "idLafourchette": "46990",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Table Breizh Café",
@@ -4495,7 +6493,17 @@
       "street": "6 Rue Jean Jaures",
       "postalCode": "59590",
       "city": "Raismes"
-    }
+    },
+    "idLafourchette": "43399",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€79.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Musigny",
@@ -4508,7 +6516,10 @@
       "street": "90 Avenue de Liege",
       "postalCode": "59300",
       "city": "Valenciennes"
-    }
+    },
+    "idLafourchette": "32118",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "1920",
@@ -4521,7 +6532,10 @@
       "street": "373 chemin des follières",
       "postalCode": "74120",
       "city": "Megève"
-    }
+    },
+    "idLafourchette": "201032",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Copenhague",
@@ -4534,7 +6548,23 @@
       "street": "142 AVENUE DES CHAMPS ELYSEES",
       "postalCode": "75008",
       "city": "PARIS"
-    }
+    },
+    "idLafourchette": "25985",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Offre Découverte Signature 115€",
+        "exclusions": "Prix par personne. \nTous les soirs du lundi au jeudi.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€200.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Cachette",
@@ -4560,7 +6590,10 @@
       "street": "Plage de Bouillabaisse",
       "postalCode": "83990",
       "city": "Saint-Tropez"
-    }
+    },
+    "idLafourchette": "26660",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Bec au Cauchois",
@@ -4573,7 +6606,10 @@
       "street": "22 Rue André Fiquet",
       "postalCode": "76540",
       "city": "Valmont"
-    }
+    },
+    "idLafourchette": "3401",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Matelote",
@@ -4586,7 +6622,10 @@
       "street": "80 Boulevard Ste Beuve",
       "postalCode": "62200",
       "city": "BOULOGNE-SUR-MER"
-    }
+    },
+    "idLafourchette": "35192",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Alan Geaam",
@@ -4612,7 +6651,10 @@
       "street": "1 Rue Schongauer",
       "postalCode": "68000",
       "city": "Colmar"
-    }
+    },
+    "idLafourchette": "6437",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le France",
@@ -4625,7 +6667,10 @@
       "street": "8 place Cupillard",
       "postalCode": "25130",
       "city": "VILLERS-LE-LAC"
-    }
+    },
+    "idLafourchette": "221",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Nakatani",
@@ -4638,7 +6683,17 @@
       "street": "27 Rue Pierre Leroux",
       "postalCode": "75007",
       "city": "PARIS"
-    }
+    },
+    "idLafourchette": "60859",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€220.00 Valentine's Day set menu",
+        "exclusions": "Price per person. For tables of 2 only. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Stéphane Tournié - Les Jardins de l'Opéra",
@@ -4677,7 +6732,10 @@
       "street": "Rue de Lillers",
       "postalCode": "62350",
       "city": "Busnes"
-    }
+    },
+    "idLafourchette": "77613",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Loges",
@@ -4690,7 +6748,10 @@
       "street": "6 r. du Boeuf",
       "postalCode": "69005",
       "city": "Lyon 05"
-    }
+    },
+    "idLafourchette": "15418",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Maximilien",
@@ -4716,7 +6777,17 @@
       "street": "114 r. Fg St-Honoré",
       "postalCode": "75008",
       "city": "Paris 08"
-    }
+    },
+    "idLafourchette": "291345",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€190.00 Valentine's Day set menu",
+        "exclusions": "Price per person. For tables of 2 only. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Table de Nans",
@@ -4729,7 +6800,10 @@
       "street": "corniche du Liouquet",
       "postalCode": "13600",
       "city": "La Ciotat"
-    }
+    },
+    "idLafourchette": "23303",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Lido",
@@ -4768,7 +6842,10 @@
       "street": "125 Rue de Sèze",
       "postalCode": "69006",
       "city": "Lyon"
-    }
+    },
+    "idLafourchette": "28558",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Table du Gourmet",
@@ -4781,7 +6858,10 @@
       "street": "5 rue 1ère Armée",
       "postalCode": "68340",
       "city": "Riquewihr"
-    }
+    },
+    "idLafourchette": "2975",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Skab",
@@ -4807,7 +6887,35 @@
       "street": "66 Allée des Marmousets",
       "postalCode": "74120",
       "city": "Megève"
-    }
+    },
+    "idLafourchette": "291883",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 215€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 160€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Saint-Martin",
@@ -4833,7 +6941,10 @@
       "street": "10 rue de L'Outre",
       "postalCode": "67000",
       "city": "STRASBOURG"
-    }
+    },
+    "idLafourchette": "71542",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Jin",
@@ -4846,7 +6957,29 @@
       "street": "6 Rue de la Sourdière",
       "postalCode": "75001",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "30379",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€220.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 145€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Champ des Lunes",
@@ -4911,7 +7044,17 @@
       "street": "35 Rue de Sélestat",
       "postalCode": "67210",
       "city": "Obernai"
-    }
+    },
+    "idLafourchette": "18939",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€175.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Château Cordeillan-Bages",
@@ -4950,7 +7093,10 @@
       "street": "3 r. Ste-Catherine",
       "postalCode": "54000",
       "city": "Nancy"
-    }
+    },
+    "idLafourchette": "4294",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Vieux Logis",
@@ -4963,7 +7109,23 @@
       "street": "Le Bourg",
       "postalCode": "24510",
       "city": "Trémolat"
-    }
+    },
+    "idLafourchette": "6018",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "\"Menu \"Balade EstTaxesle\" Accord Mands and Vins 105€\"",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Tapas 49€",
+        "exclusions": "Price per person. Menu imposé : Il ne sera pas possible de commander to la carte. Monday to Friday lunch. Non Valid les public holiday.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le 1947",
@@ -4976,7 +7138,10 @@
       "street": "Cheval Blanc Courchevel - Le Jardin Alpin",
       "postalCode": "73120",
       "city": "Courchevel 1850"
-    }
+    },
+    "idLafourchette": "33786",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Fontevraud Le Restaurant",
@@ -4989,7 +7154,10 @@
       "street": "38 rue St-Jean-de-l'Habit",
       "postalCode": "49590",
       "city": "FONTEVRAUD-L'ABBAYE"
-    }
+    },
+    "idLafourchette": "63173",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Table de Manville",
@@ -5002,7 +7170,10 @@
       "street": "Domaine de Manville - D27",
       "postalCode": "13520",
       "city": "Les Baux-de-Provence"
-    }
+    },
+    "idLafourchette": "77571",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Palmeraie",
@@ -5054,7 +7225,10 @@
       "street": "212 av. de Nonneville",
       "postalCode": "93600",
       "city": "Aulnay-sous-Bois"
-    }
+    },
+    "idLafourchette": "4546",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Pavé d'Auge",
@@ -5145,7 +7319,10 @@
       "street": "Monte-Carlo Beach - Avenue Princesse Grace",
       "postalCode": "06190",
       "city": "Roquebrune Cap-Martin"
-    }
+    },
+    "idLafourchette": "26327",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Trois Soleils de Montal",
@@ -5171,7 +7348,35 @@
       "street": "42 rue Daubenton",
       "postalCode": "75005",
       "city": "Paris 05"
-    }
+    },
+    "idLafourchette": "5727",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "€78.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Group Special: Menu 75€ (10 to 24 p.)",
+        "exclusions": "For tables of 10 to 24",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Formule Déjeuner 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Casadelmar",
@@ -5197,7 +7402,17 @@
       "street": "149 Boulevard Saint-Germain",
       "postalCode": "75006",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "275457",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Prestige Menu 79€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "I Salti",
@@ -5340,7 +7555,10 @@
       "street": "Promenade de la Concurrence",
       "postalCode": "17000",
       "city": "La Rochelle"
-    }
+    },
+    "idLafourchette": "2998",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Dan B. - La Table de Ventabren",
@@ -5379,7 +7597,10 @@
       "street": "16 rue du Phare",
       "postalCode": "29120",
       "city": "Sainte-Marine"
-    }
+    },
+    "idLafourchette": "7135",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Une Île",
@@ -5405,7 +7626,41 @@
       "street": "4 Rue du Connétable",
       "postalCode": "60500",
       "city": "Chantilly"
-    }
+    },
+    "idLafourchette": "60775",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€250.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included. 10/02 diner, 13/02 diner, 14/02 diner, 15/02 diner, 16/02 lunch and diner, and 17/02 lunch and diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 165€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 140€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 67€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Chassagnette",
@@ -5418,7 +7673,10 @@
       "street": "route du Sambuc",
       "postalCode": "13200",
       "city": "Arles"
-    }
+    },
+    "idLafourchette": "14529",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Qui plume la Lune",
@@ -5431,7 +7689,47 @@
       "street": "50 r. Amelot",
       "postalCode": "75011",
       "city": "Paris 11"
-    }
+    },
+    "idLafourchette": "11295",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu lunch prestige 90€ tout compris",
+        "exclusions": "By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte. Only lunch.",
+        "menu": true,
+        "specialOffer": true
+      },
+      {
+        "title": "Menu Saint-Valentin 250 €",
+        "exclusions": "Prix par personne",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Déjeuner 45€",
+        "exclusions": "Only for Lunch.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Lucie 130€",
+        "exclusions": "The Menu Lucie 130€ is the only menu available on dinner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Angèle 85€",
+        "exclusions": "Only for Lunch.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Iphigénie 60€",
+        "exclusions": "Only for Lunch.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Passe Temps",
@@ -5444,7 +7742,29 @@
       "street": "52 Rue Tronchet",
       "postalCode": "69006",
       "city": "Lyon"
-    }
+    },
+    "idLafourchette": "323145",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "prix par personne",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu  60€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 30€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Likoké",
@@ -5470,7 +7790,10 @@
       "street": "8 rue de la chancellerie",
       "postalCode": "78000",
       "city": "Versailles"
-    }
+    },
+    "idLafourchette": "58408",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Albert 1er",
@@ -5509,7 +7832,10 @@
       "street": "11 Rue Chavanne",
       "postalCode": "69001",
       "city": "Lyon"
-    }
+    },
+    "idLafourchette": "75043",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "L'Atelier Yssoirien",
@@ -5548,7 +7874,29 @@
       "street": "800 cours F. Peyre (rte de Carpentras)",
       "postalCode": "84800",
       "city": "L'Isle-sur-la-Sorgue"
-    }
+    },
+    "idLafourchette": "1086",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 58€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu du \"Marché\" 32€",
+        "exclusions": "Menu disponible du mardi au jeudi, le midi uniquement.\nHors jours fériés",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Auberge de la Brie",
@@ -5587,7 +7935,17 @@
       "street": "dans le parc de l'Orangerie",
       "postalCode": "67000",
       "city": "Strasbourg"
-    }
+    },
+    "idLafourchette": "3592",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€110.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Astrance",
@@ -5600,7 +7958,10 @@
       "street": "4 r. Beethoven",
       "postalCode": "75016",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "344379",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Serge Vieira",
@@ -5665,7 +8026,17 @@
       "street": "41 rue de Lille",
       "postalCode": "75007",
       "city": "Paris 07"
-    }
+    },
+    "idLafourchette": "30315",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€160.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Passage 53",
@@ -5704,7 +8075,10 @@
       "street": "1 Avenue des Comtes Duchatel",
       "postalCode": "17150",
       "city": "Mirambeau"
-    }
+    },
+    "idLafourchette": "5487",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Au 14 Février",
@@ -5769,7 +8143,17 @@
       "street": "20 quai Gailleton",
       "postalCode": "69002",
       "city": "Lyon"
-    }
+    },
+    "idLafourchette": "15413",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€169.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Hostellerie de Levernois",
@@ -5782,7 +8166,10 @@
       "street": "Rue du Golf",
       "postalCode": "21200",
       "city": "Levernois"
-    }
+    },
+    "idLafourchette": "3507",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Guy Lassausaie",
@@ -5808,7 +8195,10 @@
       "street": "31 Avenue George V",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "73961",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Restaurant de Lauzun",
@@ -5860,7 +8250,10 @@
       "street": "133 av. des Champs-Élysées",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "35146",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Bastide de Capelongue",
@@ -5925,7 +8318,29 @@
       "street": "4 r. des Grands-Augustins",
       "postalCode": "75006",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "269053",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu de 41€ à 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Découverte 98€",
+        "exclusions": "Price per person.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Découverte 85€",
+        "exclusions": "Price per person.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Tour",
@@ -5951,7 +8366,10 @@
       "street": "16 r. du Jeu-de-Paume",
       "postalCode": "56400",
       "city": "Auray"
-    }
+    },
+    "idLafourchette": "7715",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Table des Blot - Auberge du Château",
@@ -6016,7 +8434,10 @@
       "street": "2 promenade Jean-Jaurès",
       "postalCode": "31590",
       "city": "Verfeil"
-    }
+    },
+    "idLafourchette": "42187",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "En Pleine Nature",
@@ -6094,7 +8515,10 @@
       "street": "5 r. de Montalembert",
       "postalCode": "75007",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "30143",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Michel Sarran",
@@ -6133,7 +8557,17 @@
       "street": "21 rte des Quatre-Châteaux",
       "postalCode": "11600",
       "city": "Lastours"
-    }
+    },
+    "idLafourchette": "529",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Set Menus from 47€ to 93€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Bistrot de Lagarde",
@@ -6159,7 +8593,10 @@
       "street": "12 r. Gambetta",
       "postalCode": "49400",
       "city": "Saumur"
-    }
+    },
+    "idLafourchette": "46885",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Michel Trama",
@@ -6289,7 +8726,10 @@
       "street": "80 r. de Charonne",
       "postalCode": "75011",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "10889",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Ribaudière",
@@ -6341,7 +8781,10 @@
       "street": "142 r. de l'Église",
       "postalCode": "64210",
       "city": "Guéthary"
-    }
+    },
+    "idLafourchette": "11743",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Auberge du Vert Mont",
@@ -6354,7 +8797,10 @@
       "street": "1318 r. du Mont-Noir",
       "postalCode": "59299",
       "city": "Boeschepe"
-    }
+    },
+    "idLafourchette": "31795",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Coquerie",
@@ -6393,7 +8839,10 @@
       "street": "7 quai Georges Clemenceau",
       "postalCode": "78380",
       "city": "Bougival"
-    }
+    },
+    "idLafourchette": "61705",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Village",
@@ -6406,7 +8855,29 @@
       "street": "3 Grande-Rue",
       "postalCode": "78160",
       "city": "Marly-le-Roi"
-    }
+    },
+    "idLafourchette": "330375",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 100€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 40€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 50€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Table d'Eugène",
@@ -6419,7 +8890,10 @@
       "street": "18 r. Eugène-Sue",
       "postalCode": "75018",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "36884",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Bon Accueil",
@@ -6471,7 +8945,10 @@
       "street": "60 r. Garibaldi",
       "postalCode": "69006",
       "city": "Lyon"
-    }
+    },
+    "idLafourchette": "44919",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Foch",
@@ -6510,7 +8987,40 @@
       "street": "45 bd de la Croisette",
       "postalCode": "06400",
       "city": "Cannes"
-    }
+    },
+    "idLafourchette": "8628",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 190€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Set Menu 60€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "€115.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Marande",
@@ -6523,7 +9033,10 @@
       "street": "lieu-dit Mirande",
       "postalCode": "71260",
       "city": "Montbellet"
-    }
+    },
+    "idLafourchette": "2889",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Gloire",
@@ -6562,7 +9075,10 @@
       "street": "",
       "postalCode": "12390",
       "city": "Belcastel"
-    }
+    },
+    "idLafourchette": "6482",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Belvédère",
@@ -6640,7 +9156,10 @@
       "street": "30 r. du Gén.-de-Gaulle",
       "postalCode": "67520",
       "city": "Marlenheim"
-    }
+    },
+    "idLafourchette": "12601",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Pily",
@@ -6744,7 +9263,10 @@
       "street": "22 lieu-dit Journal",
       "postalCode": "25190",
       "city": "Chamesol"
-    }
+    },
+    "idLafourchette": "7876",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Au 14 Février",
@@ -6783,7 +9305,23 @@
       "street": "Rue du Boeuf",
       "postalCode": "69005",
       "city": "Lyon 05"
-    }
+    },
+    "idLafourchette": "21095",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 33€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 65-85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Ville Blanche",
@@ -6835,7 +9373,10 @@
       "street": "7 pl. du Chapitre",
       "postalCode": "30400",
       "city": "Villeneuve-lès-Avignon"
-    }
+    },
+    "idLafourchette": "689",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Robe",
@@ -6887,7 +9428,23 @@
       "street": "30 r. du Printemps",
       "postalCode": "75017",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "5020",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€77.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Gourmands 79€",
+        "exclusions": "Prix par personne.",
+        "menu": true,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "À Contre Sens",
@@ -6926,7 +9483,10 @@
       "street": "4 Grand'Rue",
       "postalCode": "47310",
       "city": "Moirax"
-    }
+    },
+    "idLafourchette": "313905",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Haut Bonheur de la Table",
@@ -7056,7 +9616,10 @@
       "street": "route des Iles Sanguinaires",
       "postalCode": "20000",
       "city": "Ajaccio"
-    }
+    },
+    "idLafourchette": "5756",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Yam'Tcha",
@@ -7069,7 +9632,17 @@
       "street": "121 r. St-Honoré",
       "postalCode": "75001",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "346045",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "La Bonne Auberge",
@@ -7095,7 +9668,10 @@
       "street": "20 r. d'Artois",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "60418",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Henri et Joseph",
@@ -7108,7 +9684,10 @@
       "street": "4 r. Léo-le-Bourgo",
       "postalCode": "56100",
       "city": "Lorient"
-    }
+    },
+    "idLafourchette": "8838",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Pyrénées",
@@ -7134,7 +9713,10 @@
       "street": "17 r. N.-D.-des-Victoires",
       "postalCode": "75002",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "8760",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Gaya Rive Gauche par Pierre Gagnaire",
@@ -7186,7 +9768,10 @@
       "street": "173 r. Cuvier",
       "postalCode": "69006",
       "city": "Lyon"
-    }
+    },
+    "idLafourchette": "324425",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Gavroche",
@@ -7225,7 +9810,10 @@
       "street": "43 av. Bugeaud",
       "postalCode": "75116",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "24272",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Le Montgomerie",
@@ -7251,7 +9839,10 @@
       "street": "38 r. de l'Europe",
       "postalCode": "29840",
       "city": "Porspoder"
-    }
+    },
+    "idLafourchette": "65607",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Mickaël Féval",
@@ -7264,7 +9855,35 @@
       "street": "11 Petite-Rue-St-Jean",
       "postalCode": "13100",
       "city": "Aix-en-Provence"
-    }
+    },
+    "idLafourchette": "77134",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€135.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Dégustation 87€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Tentation 63€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Laurent",
@@ -7277,7 +9896,23 @@
       "street": "41 av. Gabriel",
       "postalCode": "75008",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "310489",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      },
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "menu": false,
+        "specialOffer": true
+      }
+    ]
   },
   {
     "name": "Auberge St-Walfrid",
@@ -7290,7 +9925,10 @@
       "street": "58 r. de Grosbliederstroff",
       "postalCode": "57200",
       "city": "Sarreguemines"
-    }
+    },
+    "idLafourchette": "7784",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Transparence \"La Table de Patrick Fréchin\"",
@@ -7316,7 +9954,10 @@
       "street": "21 Grand-Rue",
       "postalCode": "06140",
       "city": "Tourrettes-sur-Loup"
-    }
+    },
+    "idLafourchette": "6655",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Allium",
@@ -7407,7 +10048,10 @@
       "street": "2 r. Gustave Deloye",
       "postalCode": "06000",
       "city": "Nice"
-    }
+    },
+    "idLafourchette": "38154",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Les Genêts",
@@ -7524,7 +10168,17 @@
       "street": "34 r. St-Dominique",
       "postalCode": "75007",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "25701",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "€130.00 Valentine's Day set menu",
+        "exclusions": "Price per person. Drinks not included.  14/02 diner.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Grand Restaurant - Jean-François Piège",
@@ -7602,7 +10256,17 @@
       "street": "62 r. Abbé-de-L'Epée",
       "postalCode": "33000",
       "city": "Bordeaux"
-    }
+    },
+    "idLafourchette": "276775",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 69€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Auberge du Paradis",
@@ -7628,7 +10292,10 @@
       "street": "av. du Verger",
       "postalCode": "62520",
       "city": "Le Touquet-Paris-Plage"
-    }
+    },
+    "idLafourchette": "306505",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Racine",
@@ -7732,7 +10399,23 @@
       "street": "29 r. de l'Exposition",
       "postalCode": "75007",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "317587",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 38€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Chateaubriand",
@@ -7745,7 +10428,10 @@
       "street": "129 av. Parmentier",
       "postalCode": "75011",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "202436",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Jérôme Feck",
@@ -7784,7 +10470,29 @@
       "street": "15 r. Caulaincourt",
       "postalCode": "75018",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "276169",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu 70€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 30€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "Le Skiff Club",
@@ -7836,7 +10544,10 @@
       "street": "13 r. Jean-Beausire",
       "postalCode": "75004",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "209577",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "Sushi B",
@@ -7862,7 +10573,39 @@
       "street": "18 r. Fabert",
       "postalCode": "75007",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "272053",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Brunch 65€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Brunch 49€",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 90€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu 210€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "La Merise",
@@ -7901,7 +10644,29 @@
       "street": "9 r. Léopold-Robert",
       "postalCode": "75014",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "272593",
+    "isFoundOnLafourchette": true,
+    "promotions": [
+      {
+        "title": "Menu Déjeuner 40€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu Carte Blanche le Soir 80€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      },
+      {
+        "title": "Menu formule pour midi 32€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "menu": true,
+        "specialOffer": false
+      }
+    ]
   },
   {
     "name": "L'Auberge de Bagatelle",
@@ -7940,7 +10705,10 @@
       "street": "31 av. de Versailles",
       "postalCode": "75016",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "337449",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   },
   {
     "name": "La Table d'Hôtes - Le Quatrième Mur",
@@ -7992,6 +10760,9 @@
       "street": "33 r. de l'Abbé-Grégoire",
       "postalCode": "75006",
       "city": "Paris"
-    }
+    },
+    "idLafourchette": "317277",
+    "isFoundOnLafourchette": true,
+    "promotions": []
   }
 ]
