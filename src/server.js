@@ -16,3 +16,8 @@ var jsonfile = require('jsonfile');
 jsonfile.readFile('michelin_restaurants_informations_list.json', function(err, restaurantsList){
   lafourchette.getAllRestaurantsIdOnLaFourchette(restaurantsList);
 });
+
+/*4 - Search Deals for each michelin starred restaurants which is on LaFourchette*/
+/*jsonfile.readFile('restaurants_list_withID.json', function(err, restaurantsList){
+  lafourchette.getAllRestaurantsDealsOnLaFourchette(restaurantsList);
+});*/

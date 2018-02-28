@@ -12,7 +12,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/iISK-1u8sxhxOIPA.jpg?itok=0p1IVlLX",
     "id": "1923",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Agapé/1923"
+    "deals": [
+      {
+        "title": "Menu Prestige 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Gourmands 185€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28u6ql7/le-jardin-des-remparts-beaune",
@@ -27,7 +40,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le%20Jardin%20des%20Remparts_Beaune_1.jpg?itok=o3OuAyDt",
     "id": "4988",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Jardin-des-Remparts/4988"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/295q5w8/frederic-doucet-charolles",
@@ -70,7 +83,19 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Untitled-1_4.jpg?itok=biuzGCBe",
     "id": "548",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-de-l'Île-Barbe/548"
+    "deals": [
+      {
+        "title": "Menu 158€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 50€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cz1lgu/aigue-marine-treguier",
@@ -99,7 +124,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le-39v_Paris_1.jpg?itok=Gj_PVDAU",
     "id": "26112",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-39V/26112"
+    "deals": [
+      {
+        "title": "Menu Mardis Gourmands 135€ le soir",
+        "exclusions": "Price per person.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 85€ le midi",
+        "exclusions": "Price per person.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2x1lce26/le-saint-esteve-le-tholonet",
@@ -128,7 +166,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/neSjqRQNH368J02w.jpg?itok=5UpVEC2n",
     "id": "5603",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/JY'S/5603"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a7qx35/restaurant-du-palais-royal-paris-01",
@@ -143,7 +181,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Restaurant%20Palais%20Royal%20Terrasse%202016%203%20-%20Yann%20Audic.jpg?itok=fIRuiKeS",
     "id": "21741",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Restaurant-du-Palais-Royal/21741"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29ol879/les-pecheurs-antibes",
@@ -172,7 +210,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/HyT4eG2a2VwUFjcg.jpg?itok=Mnie98cx",
     "id": "31135",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-de-Franck-Putelat/31135"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cfem9h/le-restaurant-paris-06",
@@ -187,7 +225,19 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/HTTNiiOHKjZgVb4w.jpg?itok=pm-gU__2",
     "id": "297223",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Restaurant/297223"
+    "deals": [
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "Brunch 35€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bmu0gi/christophe-bacquie-le-castellet",
@@ -216,7 +266,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/bocuse2_0.jpg?itok=FUxHwfk7",
     "id": "5355",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Paul-Bocuse/5355"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28xeo4n/lorangerie-du-chateau-blois",
@@ -231,7 +281,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/cpSaWktw6mwHjyYg.jpg?itok=eSVWiA93",
     "id": "2728",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Orangerie-du-Château/2728"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/389tiwsv/fanny-rey-jonathan-wahid-saint-remy-de-provence",
@@ -288,7 +338,13 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Bar%20de%20Ligne%20aux%20C%C3%A8pes-JUIN%202017.jpg?itok=OzrFDktc",
     "id": "38822",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Paloma/38822"
+    "deals": [
+      {
+        "title": "Easter Lunch - Sunday, April 1st, 2018 Menu 180€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bj8gr9/le-saint-james-bouliac",
@@ -303,7 +359,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/13178912_628874113929425_6375026556486534536_n.jpg?itok=jO9ghGr7",
     "id": "4977",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Saint-James/4977"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bm9rwc/patrick-jeffroy-carantec",
@@ -332,7 +388,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/M%C3%A8re_Brazier_Paris%20.jpg?itok=HgyovPQG",
     "id": "6794",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Mère-Brazier/6794"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aa5u1w/le-violon-dingres-paris-07",
@@ -347,7 +403,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/4_176.jpg?itok=nz36hiqD",
     "id": "205737",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Violon-d'Ingres/205737"
+    "deals": [
+      {
+        "title": "Menu \"Prestige\"",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu Dégustation 130€",
+        "exclusions": "Price per person. Drink not included. For the whole table.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28vws7k/la-tour-des-vents-monbazillac",
@@ -362,7 +431,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/yHRE6VeDcmh62HTQ.jpg?itok=va8njvb8",
     "id": "75533",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Tour-des-Vents/75533"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bk7w2q/le-moulin-du-roc-champagnac-de-belair",
@@ -377,7 +446,25 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/MoulinduRocCochon.jpg?itok=G6vOFCcT",
     "id": "7133",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Moulin-du-Roc/7133"
+    "deals": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 125€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 49€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29tfnmd288/tetedoie-lyon-05",
@@ -392,7 +479,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Tetedoie_Lyon_Photo6.jpg?itok=zHST346I",
     "id": "3997",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Têtedoie/3997"
+    "deals": [
+      {
+        "title": "Menu 140€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 110€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ep5ghq/le-cloitre-mane",
@@ -407,7 +507,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/OCRDKHzIwlMKgGBQ.jpg?itok=7RwDc6-J",
     "id": "11050",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Cloître/11050"
+    "deals": [
+      {
+        "title": "Menu 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 115€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/6f226za/sur-mesure-par-thierry-marx-paris-01",
@@ -422,7 +541,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1_250.jpg?itok=iIbPrYCj",
     "id": "53046",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Sur-Mesure-par-Thierry-Marx/53046"
+    "deals": [
+      {
+        "title": "« Diner » menu from 190€ to 250€",
+        "exclusions": "Price per person.\nExcluding  beverages.\nfrom Tuesday to Saturday and public holidays.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "« Lunch » menu from 85€ to 150€",
+        "exclusions": "Price per person.\nExcluding  beverages.\nFrom Tuesday to Friday only, excluding public holidays.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2as8r3a/lalmandin-saint-cyprien-plage",
@@ -437,7 +569,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/christophe-schmitt-almandin.jpg?itok=W_vw-SOD",
     "id": "566",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Almandin/566"
+    "deals": [
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dtfbbi/le-quinzieme-cyril-lignac-paris-15",
@@ -466,7 +605,37 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/12_28.jpg?itok=xkYWhHcs",
     "id": "3303",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Relais-Bernard-Loiseau/3303"
+    "deals": [
+      {
+        "title": "Menu 250€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 150€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 245€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 195€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bn8o1t/hostellerie-de-labbaye-de-la-celle-la-celle",
@@ -481,7 +650,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/gzSfWObGajS9I9qw.jpg?itok=Bw-tlqz-",
     "id": "25901",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Hostellerie-de-l'Abbaye-de-la-Celle/25901"
+    "deals": [
+      {
+        "title": "Menu 98€",
+        "exclusions": "Prix par personne",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ab9sgk/le-taillevent-paris-08",
@@ -510,7 +686,42 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/W5SIihS6SL0UVJoQ.jpg?itok=y4pUdUFp",
     "id": "28453",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/1217/28453"
+    "deals": [
+      {
+        "title": "Menu Surprise Menu 140€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 65€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 28€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 32€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 26€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cliodi/assiette-champenoise-tinqueux",
@@ -525,7 +736,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/image%20pple%26.jpg?itok=nvKBrmQl",
     "id": "3806",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Assiette-Champenoise/3806"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bl33gu/hostellerie-berard-la-cadiere-dazur",
@@ -540,7 +751,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/LTRa-0hOmBKPFnEQ.jpg?itok=WOyWlPZi",
     "id": "416",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Hostellerie-Bérard/416"
+    "deals": [
+      {
+        "title": "\"Menu \"Le Randour de la Bastide\" 58€\"",
+        "exclusions": "Prix par personne. En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "\"Menu \"Pour les gourmands\" 92€\"",
+        "exclusions": "Prix par personne. En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "\"Menu \"Moment de plaisir to partager\" 169€\"",
+        "exclusions": "Pour l'ensemble des convives de la table.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dnmje9/numero-3-le-tremblay-sur-mauldre",
@@ -555,7 +785,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/RpQmu1Gb0ENwRWUg.jpg?itok=49_hVobl",
     "id": "26601",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Numéro-3/26601"
+    "deals": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 65€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu  49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2abl39j/le-chiberta-paris-08",
@@ -570,7 +819,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Chiberta.jpg?itok=nD0RVIqm",
     "id": "2828",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Chiberta/2828"
+    "deals": [
+      {
+        "title": "Menu Découverte 110€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2c76rmd/le-petit-nice-marseille-07",
@@ -585,7 +841,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le-Petit-Nice-Passedat-front-view-min.jpg?itok=7qznzBxv",
     "id": "9350",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Petit-Nice/9350"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/292xja3/la-barbacane-carcassonne",
@@ -600,7 +856,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/La-Barbacane_Carcassonne_6.jpg?itok=g9K4V2JF",
     "id": "26494",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Barbacane/26494"
+    "deals": [
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Déjeuner 39€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/yw26sgs/le-fanal-banyuls-sur-mer",
@@ -615,7 +884,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/sOTAi743yyAQirnA.jpg?itok=ZcIPh25B",
     "id": "294745",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Fanal/294745"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2acpe43/au-trou-gascon-paris-12",
@@ -630,7 +899,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Q1QyayIqHG21oZuA.jpg?itok=hBg7Uza0",
     "id": "69375",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Au-Trou-Gascon/69375"
+    "deals": [
+      {
+        "title": "Menu Gourmands 89€",
+        "exclusions": "Menu en Exclusivité LaFourchette. En réservant ce menu il ne sera pas possible de commander à la carte, ce menu doit être consommé par l'ensemble des convives.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a7gjv9/carre-des-feuillants-paris-01",
@@ -645,7 +921,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/JsQzWxcDmOBN_Zhw.jpg?itok=e2SrQraU",
     "id": "69372",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Carré-des-Feuillants/69372"
+    "deals": [
+      {
+        "title": "Menu Gourmands 149€",
+        "exclusions": "Menu en Exclusivité LaFourchette. En réservant ce menu il ne sera pas possible de commander à la carte, ce menu doit être consommé par l'ensemble des convives.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2d9288s/le-hittau-saint-vincent-de-tyrosse",
@@ -674,7 +957,13 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/uTQUSrSUN3FHQ2CQ.jpg?itok=bRz6uQG3",
     "id": "310829",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Dominique-Bouchet/310829"
+    "deals": [
+      {
+        "title": "-20% on « MENU AVEC SAKE », or 120,00 € instead of 150,00 €!",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/9rnckmj/ga-au-manoir-de-retival-caudebec-en-caux",
@@ -717,7 +1006,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Gill.jpg?itok=75DbYON0",
     "id": "3157",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Gill/3157"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dse7wh/le-magasin-aux-vivres-metz",
@@ -732,7 +1021,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/VBTNu_peZEZODGOA.jpg?itok=q23akGE6",
     "id": "5109",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Magasin-aux-Vivres/5109"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28zbkc6/la-marelle-peronnas",
@@ -761,7 +1050,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/SeQ_2HWrU12JJiWw.jpg?itok=g0ShzyLw",
     "id": "205419",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Dame-de-Pic/205419"
+    "deals": [
+      {
+        "title": "Menu 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b6sa1u/le-pressoir-saint-ave",
@@ -776,7 +1084,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/jdRSWO99CzBANH3w.jpg?itok=VSl-Zhf8",
     "id": "18188",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Pressoir/18188"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bcbfo0/chateau-de-pray-amboise",
@@ -805,7 +1113,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Bastide%20de%20Moustiers%20-%20ext%2B-%C2%ABrieur%20chemin%20-%20%28c%29PierreMonetta.jpg?itok=8GW_bPZW",
     "id": "57531",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Bastide-de-Moustiers/57531"
+    "deals": [
+      {
+        "title": "Menu 98€",
+        "exclusions": "Prix par personne. Hors boisson. Menu unique : il ne sera pas possible de commander à la carte.\nValable le 23/03 dîner.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fdi6av208/il-carpaccio-paris-08",
@@ -820,7 +1135,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/AsSBqzhRxmLnZ3EQ.jpg?itok=ds0wL4v1",
     "id": "8601",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Il-Carpaccio/8601"
+    "deals": [
+      {
+        "title": "Le Grand Déjeuner à l’Italienne 126€",
+        "exclusions": "Prix par personne. Menu unique : il ne sera pas possible de commander à la carte.\nDisponible le dimanche de 12h00 à 14h00,126€ par personne.\nAvailable on Sundays, from 12PM to 2 PM, 126€ per person.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aru9pt/aux-pesked-saint-brieuc",
@@ -877,7 +1205,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/PiXBzMweQ6utcINqNAW1dw.jpg?itok=CdiNIDOE",
     "id": "3018",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Domaine-d'Auriac/3018"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28tn79w/loustau-de-baumaniere-les-baux-de-provence",
@@ -906,7 +1234,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/DzTpq7nUs5HKqBUg.jpg?itok=bmH7wf7n",
     "id": "16314",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Fresques/16314"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29s5co3/bruno-lorgues",
@@ -963,7 +1291,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/tRRH2S1IabJhdz9Q.jpg?itok=7ZkD2ShI",
     "id": "78533",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Quincangrogne/78533"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bpwyme/auberge-du-bon-laboureur-chenonceaux",
@@ -978,7 +1306,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/PWbP-WcTQKOULjq4u8YrXg.jpg?itok=5vxP4sxe",
     "id": "2934",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-du-Bon-Laboureur/2934"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dyiess/j-m-perochon-bretignolles-sur-mer",
@@ -1007,7 +1335,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/DwQciamziBaj4tpw.jpg?itok=2NrsLEGo",
     "id": "6448",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Bacchanales/6448"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29jqk2d/les-bas-rupts-bas-rupts",
@@ -1036,7 +1364,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/MVE_031.jpg?itok=HtN4BIjp",
     "id": "201032",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/1920/201032"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29dkmez/stephane-derbord-dijon",
@@ -1051,7 +1379,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/sCQ8ysAVXnz2sxCg.jpg?itok=6kSAu70-",
     "id": "5619",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Stéphane-Derbord/5619"
+    "deals": [
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 82€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 55€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bicgcl/auberge-des-templiers-les-bezards",
@@ -1066,7 +1419,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Auberge%20des%20templiers.jpg?itok=j-SfGH2a",
     "id": "2714",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-des-Templiers/2714"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b1jv34/relais-de-la-poste-la-wantzenau",
@@ -1081,7 +1434,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/multi.JPG?itok=kkhwodKI",
     "id": "2876",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Relais-de-la-Poste/2876"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3w3putu/la-cooperative-belesta",
@@ -1124,7 +1477,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/16640588_1437410429610518_3495360118479252504_n.jpg?itok=wsQ4mxor",
     "id": "74933",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Clarence/74933"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2e2m5rq/la-table-de-patrick-raingeard-eze-bord-de-mer",
@@ -1167,7 +1520,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/vNTZO1E7S68plxVw.jpg?itok=79HMZ8td",
     "id": "26460",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Ivan-Vautier/26460"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fcm39b/yoann-conte-veyrier-du-lac",
@@ -1182,7 +1535,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/qoSHmlHUyc1QOA4g.jpg?itok=49ApTZq9",
     "id": "15264",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Yoann-Conte/15264"
+    "deals": [
+      {
+        "title": "Menu 160€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 169€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 98€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2e1ykis/latelier-dedmond-val-disere",
@@ -1225,7 +1597,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/X-Qsizcm8-awNLRw.jpg?itok=xRSxtBQx",
     "id": "21632",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Essentiel/21632"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2eqhwui/maison-clovis-lyon-06",
@@ -1240,7 +1612,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/QSRWSv7f5USpKnjg.jpg?itok=g1uGupu2",
     "id": "324443",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Maison-Clovis/324443"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29uqy46/la-rotonde-la-tour-de-salvagny",
@@ -1255,7 +1627,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/0048CMJN.jpg?itok=aIW271kG",
     "id": "73740",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Rotonde/73740"
+    "deals": [
+      {
+        "title": "Menu Gourmands 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28u9h7z/le-benaton-beaune",
@@ -1284,7 +1663,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/qqRry9ZLZ6AVBVEQ.jpg?itok=m6aejUZq",
     "id": "378",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Ithurria/378"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2c6dfrz/relais-de-la-poste-magescq",
@@ -1313,7 +1692,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/VxQAeD1u55-WULVg.jpg?itok=F1oTYrVg",
     "id": "26352",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Moulin-de-l'Abbaye/26352"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29pia6z/chez-michele-languimberg",
@@ -1328,7 +1707,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/0nl5XQewSumid-TFOFPSqA.jpg?itok=-x9dAgvb",
     "id": "16363",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Chez-Michèle/16363"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29bkalt/le-kleber-crest",
@@ -1371,7 +1750,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/0tT_q8DtHP2DPXXA.jpg?itok=TkWiVaOE",
     "id": "26201",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auguste/26201"
+    "deals": [
+      {
+        "title": "Gourmand Menu 118€ All inclusive",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu  88€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Lunch Menu 37€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2f0stuh/dyades-au-domaine-des-etangs-massignac",
@@ -1414,7 +1812,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/nyRceVOAE9kW0ndg.jpg?itok=wNCuxMkJ",
     "id": "5305",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Auberge-Basque/5305"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bp5jf6/la-bonne-etape-chateau-arnoux",
@@ -1429,7 +1827,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/oLCwY-hXTzyJmItHXyVkYA.jpg?itok=-BG-g_Rr",
     "id": "953",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Bonne-Étape/953"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2chv2z6/restaurant-du-chateau-chancelade",
@@ -1458,7 +1856,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le-Pavillon-de-Boulevards_Bordeaux_4.jpg?itok=H2pYW0oM",
     "id": "7872",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Pavillon-des-Boulevards/7872"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2emcabb/chateau-de-courban-courban",
@@ -1473,7 +1871,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/prRfK7JD1V6u13Iw.jpg?itok=y1g1XDZb",
     "id": "16982",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Château-de-Courban/16982"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2abhfav/pierre-gagnaire-paris-08",
@@ -1502,7 +1900,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/frachot%20294_jf_frachot2017_im3_7044.jpeg?itok=wtaskiP-",
     "id": "3931",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/William-Frachot/3931"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2e4vi29/alain-llorca-la-colle-sur-loup",
@@ -1517,7 +1915,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Alain-Llorca-restaurant-e1472714552931-min.jpg?itok=mRXKmyvc",
     "id": "277471",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Alain-Llorca/277471"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aeinde/le-pergolese-paris-16",
@@ -1532,7 +1930,38 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/QATIaDDLKysfGuxg.jpg?itok=aDzAbx_Z",
     "id": "4727",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Pergolèse/4727"
+    "deals": [
+      {
+        "title": "Menus Business 54€ et 64€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Carte 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Dégustation 120€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Signatures du Pergolèse 130€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 99€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aaahmg/loiseau-rive-gauche-paris-07",
@@ -1547,7 +1976,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/R7Sam79TvoHGPQFQ.jpg?itok=aqtJhbVt",
     "id": "25",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Loiseau-rive-Gauche/25"
+    "deals": [
+      {
+        "title": "Menu Ephémère 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Plein Champ 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Climat de Saison 82€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Plein Champ 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ef8rpt/loiseau-des-vignes-beaune",
@@ -1562,7 +2016,44 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Loiseudesvignes.jpg?itok=5Pt6D9hn",
     "id": "3304",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Loiseau-des-Vignes/3304"
+    "deals": [
+      {
+        "title": "Menu 119€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 25€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2buz227/la-chaumiere-dole",
@@ -1591,7 +2082,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/5LRN-qsbFpaSeEsA.jpg?itok=ecehGVcm",
     "id": "12900",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Pierre-Orsi/12900"
+    "deals": [
+      {
+        "title": "Menu Mardis Gourmands 150€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cnfm96/hostellerie-du-rosenmeer-rosheim",
@@ -1620,7 +2118,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/NxSnmpldEUlpJcYA.jpg?itok=Y5rK1bIe",
     "id": "27058",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Initial/27058"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2al6a9i/lauberge-de-la-pomme-les-damps",
@@ -1635,7 +2133,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/w3RLmSH4N1M6Npzg.jpg?itok=QUS4OD4v",
     "id": "32584",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Auberge-de-la-Pomme/32584"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/yi79hbnh/julien-binz-ammerschwihr",
@@ -1650,7 +2148,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/3dQReUJ4FfCArhJQ.jpg?itok=C-WYLeJQ",
     "id": "206163",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Julien-Binz/206163"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ehwc2a/la-licorne-royale-lyons-la-foret",
@@ -1665,7 +2163,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/nSoMe2gtREmAUy8GFz_y6g.jpg?itok=_wTye0oH",
     "id": "5632",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Licorne-Royale/5632"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ab5qlx/alleno-paris-au-pavillon-ledoyen-paris-08",
@@ -1694,7 +2192,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/THT0KYcX7j4xkMLQ.jpg?itok=ftZBiEAE",
     "id": "22878",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Domaine-de-Clairefontaine/22878"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dix4nq137/faventia-tourrettes",
@@ -1709,7 +2207,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/TyQfCsRT-pi3OXRw.jpg?itok=5PCWSf9S",
     "id": "324473",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Faventia/324473"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2epv4gf/le-m-brest",
@@ -1752,7 +2250,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/q0QZyMz_VN-Iuheg.jpg?itok=gkBxFOFl",
     "id": "10427",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Morainières/10427"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fdc0eg/le-baudelaire-paris-01",
@@ -1767,7 +2265,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le%20Baudelaire%20J17_150-Panorama%20copie.jpg?itok=9-jWCxq9",
     "id": "9228",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Baudelaire/9228"
+    "deals": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu Gourmands 130€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2awwemv/le-moulin-de-la-gorce-la-roche-labeille",
@@ -1810,7 +2321,29 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le-Clos-des-Sens-2016_09_21-REPORTAGE-salle-terrasse-5.jpg?itok=YBD-ZjPJ",
     "id": "7130",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Clos-des-Sens/7130"
+    "deals": [
+      {
+        "title": "Menu 70€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu \"Découverte Grande Fête \" en 10 saveurs 190€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu \"Découverte Plein d'Envies\" en 8 saveurs 160€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu \"Découverte Pour Voir...\" en 5 saveurs 120€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a4echf50/le-chantecler-nice",
@@ -1825,7 +2358,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Dos%20de%20chevreil%20aux%20marrons%20de%20Berre-les-Alpes-min.jpg?itok=L9StYUIO",
     "id": "301377",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Chantecler/301377"
+    "deals": [
+      {
+        "title": "Grand Menu Signature by Jean-Denis 230,00 €",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 180€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Chantecler à 130€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/8zb6c2d4/le-carmin-beaune",
@@ -1854,7 +2406,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/5826_1_0.jpg?itok=wbqBWKt0",
     "id": "25896",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Benoit/25896"
+    "deals": [
+      {
+        "title": "Menu Mardis Gourmands 125€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/298i34w/hostellerie-la-montagne-colombey-les-deux-eglises",
@@ -1897,7 +2456,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/NnQuW0IigcPaXPqw.jpg?itok=Sq0YT7ow",
     "id": "15068",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Au-Vieux-Couvent/15068"
+    "deals": [
+      {
+        "title": "Menu 99€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 73€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Tentation 56€",
+        "exclusions": "Price per person. Even if you reserve with this menu, you can order whatever you want in the restaurant.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/s5edw9g/le-bouche-oreille-boutervilliers",
@@ -1926,7 +2504,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/dessert%20menu%20framboise%202017.jpg?itok=J0rxlA7V",
     "id": "10332",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Refuge-des-Gourmets/10332"
+    "deals": [
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/u945qtuv/maximin-hellio-deauville",
@@ -1969,7 +2554,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/p-SNy5aLyd6rNWJA.jpg?itok=-hosjZtg",
     "id": "682",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Oasis/682"
+    "deals": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu Mardis Gourmands 125€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/38z104i7/jan-nice",
@@ -2054,7 +2652,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/zqSGegIK6y9y143g.jpg?itok=ydcXNvkb",
     "id": "8973",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Corot/8973"
+    "deals": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "Group Special: Menu 66€",
+        "exclusions": "Choix d’un menu unique pour tous les convives\nToutes nos viandes bovines sont originaires d’Allemagne",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28qae64/le-relais-des-moines-les-arcs",
@@ -2069,7 +2680,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/05%20SANJOU%20TERRASSE%2001%20%282%29.jpg?itok=Ne5Kgoe9",
     "id": "132",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Relais-des-Moines/132"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28rd58x/cyril-attrazic-aumont-aubrac",
@@ -2084,7 +2695,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Cyril%20Attrazic%20phoca_thumb_l_chezcamillou-045.jpg?itok=NaQ6ReCY",
     "id": "26469",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Cyril-Attrazic/26469"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29p8ja1/pont-de-louysse-lacave",
@@ -2099,7 +2710,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/3971_1_0.jpg?itok=yKHJCF_T",
     "id": "62590",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Pont-de-l'Ouysse/62590"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cyg6yb/les-hautes-roches-rochecorbon",
@@ -2114,7 +2725,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/OHSDybfUWCLKzFtA.jpg?itok=0Jc6nutL",
     "id": "2819",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Hautes-Roches/2819"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/34milgg2/auberge-tiegezh-guer",
@@ -2129,7 +2740,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/XBQlyeJydMT3hCwg.jpg?itok=jS6ZhZC8",
     "id": "51875",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-Tiegezh/51875"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2anw751/le-grand-cerf-montchenot",
@@ -2144,7 +2755,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/rAQzWbNihA3-bvdw.jpg?itok=5d1Yoe-F",
     "id": "5935",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Grand-Cerf/5935"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2af5lql/la-grande-cascade-paris-16",
@@ -2159,7 +2770,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/2YRLO_xohfHn9mtw.jpg?itok=Tg8B3oUX",
     "id": "122",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Grande-Cascade/122"
+    "deals": [
+      {
+        "title": "-40% off the \"à la carte\" menu",
+        "exclusions": "Conditions : Set Menu not included, Drinks not included. Minimums apply Start + Main or Main + Desert minimum per person. \nValid : every day lunch and dinner.",
+        "is_menu": false,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/xhr5bt96/le-jardin-de-benjamin-lorgues",
@@ -2188,7 +2806,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/XCRuoZpTRxuXvS8drwnDBA.jpg?itok=TbA4yS4C",
     "id": "8685",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Villa-Archange/8685"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fe7j1g/sylvestre-paris-07",
@@ -2203,7 +2821,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/c5S964HabTPBRxng.jpg?itok=veOn8mz4",
     "id": "200546",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Sylvestre/200546"
+    "deals": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dwt9zi/le-carrousel-maringues",
@@ -2218,7 +2843,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le-Carrousel.jpg?itok=zWrCJjrd",
     "id": "9759",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Carrousel/9759"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2enx3bmn/masa-boulogne-billancourt",
@@ -2261,7 +2886,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/_D4S8064.jpg?itok=VQPNtg--",
     "id": "35732",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Anne-de-Bretagne/35732"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a6bp6b/le-pre-du-moulin-serignan-du-comtat",
@@ -2290,7 +2915,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/LIEU%20JAUNE%20DE%20%20LIGNE%20%281%29.jpg?itok=hNVOOYT5",
     "id": "5497",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Scène/5497"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/t645yf86/villa-rene-lalique-wingen-sur-moder",
@@ -2333,7 +2958,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/_qRPqP2gkVrGc2JQ.jpg?itok=jgxO2XMz",
     "id": "2788",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Villa-Madie/2788"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bgynqb/chateau-de-sully-sully",
@@ -2362,7 +2987,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/PxRoeeguDogE01gA.jpg?itok=folsjcFF",
     "id": "60777",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/1912/60777"
+    "deals": [
+      {
+        "title": "20% off food",
+        "exclusions": "Set menu and drinks not included. Valid for all orders of starter + a main or a main + dessert as a minimum per person.",
+        "is_menu": false,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28yhuxy/la-grandvigne-martillac",
@@ -2377,7 +3009,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/gUTTuw1L-k92QfEw.jpg?itok=uD0z15hC",
     "id": "5649",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Grand'Vigne/5649"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a22p1u/maison-kieny-riedisheim",
@@ -2392,7 +3024,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/LxTY2FbSfKqbkTpg.jpg?itok=VPzg11th",
     "id": "2971",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Maison-Kieny/2971"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28zo6i3/domaine-des-sequoias-ruy",
@@ -2407,7 +3039,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Domaine-sequoia.jpg?itok=mFGDvxkf",
     "id": "1009",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Domaine-des-Séquoias/1009"
+    "deals": [
+      {
+        "title": "Menu 70€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Affaire 40€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu \"Suite Nº11\"  130€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29nft26/auberge-de-lill-illhaeusern",
@@ -2436,7 +3087,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/le%20meurice.jpg?itok=MjM2Fywb",
     "id": "618",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Meurice-Alain-Ducasse/618"
+    "deals": [
+      {
+        "title": "A partir du 8 avril 2018 : Brunch Dominical de l'hôtel Meurice 105€",
+        "exclusions": "Price per person. Unique brunch : it will not be possible to order \"à la carte\".",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Sunday Brunch at the hotel Meurice 95 €",
+        "exclusions": "Price per person. Unique brunch : it will not be possible to order \"à la carte\".",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Easter Brunch 135€",
+        "exclusions": "Prix par personne. Brunch unique : il ne sera pas possible de commander à la carte. Proposé le dimanche 1er Avril 2018.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Tea Time Dalí 54€",
+        "exclusions": "Price per person.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2akhln2/lauberge-des-glazicks-plomodiern",
@@ -2465,7 +3141,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/a3SimEAAJf7AjQIw.jpg?itok=yPZHWrUz",
     "id": "23454",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Helen/23454"
+    "deals": [
+      {
+        "title": "Lunch menu monday to friday 48€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a8d13e/lambroisie-paris-04",
@@ -2508,7 +3191,31 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/2-min-min.jpg?itok=mxyfMWTv",
     "id": "2591",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-des-Merville/2591"
+    "deals": [
+      {
+        "title": "Menu 110€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 58€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 38€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 28€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fay1do/le-vivarais-vals-les-bains",
@@ -2565,7 +3272,25 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/CsQr67lI38UXardg.jpg?itok=rskXhEDX",
     "id": "212971",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Odas/212971"
+    "deals": [
+      {
+        "title": "Menu 65€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 28€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29qf1y7/auberge-du-cheval-blanc-lembach",
@@ -2580,7 +3305,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Auberge%20du%20Cheval%20Blanc_0.jpg?itok=4UJGviNk",
     "id": "2310",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-du-Cheval-Blanc/2310"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29zgkr3/jerome-brochot-montceau-les-mines",
@@ -2623,7 +3348,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Salle_1.jpg?itok=xNQshrm4",
     "id": "53038",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Gabriel/53038"
+    "deals": [
+      {
+        "title": "Menu 250€",
+        "exclusions": "Disponible jusqu'à 14h au midi et 22h au soir.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu  195€",
+        "exclusions": "Disponible jusqu'à 14h au midi et 22h au soir.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu déjeuner 115€ en quatre services",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu déjeuner 95€ en trois services",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2clh5yg/le-parc-les-crayeres-reims",
@@ -2652,7 +3402,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1-%20Equipe%20de%20la%20C%C3%B4te%20Saint%20Jacques%40jeanmichellorain-min.jpg?itok=e_8PufQp",
     "id": "12792",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Côte-Saint-Jacques/12792"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bqajf6/radio-chamalieres",
@@ -2667,7 +3417,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/8ed8w4OER-uQO29XYp4WkA.jpg?itok=4B3P0T9Z",
     "id": "9611",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Radio/9611"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cedaza/domaine-des-hauts-de-loire-onzain",
@@ -2738,7 +3488,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/rCRw6omX0v9WkwYA.jpg?itok=lb3AxeFa",
     "id": "204609",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Castellaras/204609"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2afciv4/guy-savoy-paris-06",
@@ -2767,7 +3517,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/kSQs6rKAza8q6-4g.jpg?itok=-DHKrhOg",
     "id": "214579",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Arcane/214579"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2abav0l/lucas-carton-paris-08",
@@ -2782,7 +3532,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/lucas-carton.jpg?itok=bjTbXPy4",
     "id": "203143",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Lucas-Carton/203143"
+    "deals": [
+      {
+        "title": "Menu 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bc2prd/le-haut-allier-le-pont-dalleyras",
@@ -2825,7 +3582,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/L%27Auberge%20de%20la%20Tour.jpg?itok=qNfSfG2X",
     "id": "23255",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-de-la-Tour/23255"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2abcqvg/lasserre-paris-08",
@@ -2840,7 +3597,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/VEQUylIVHsofv7og.jpg?itok=v17Dntuz",
     "id": "250",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Lasserre/250"
+    "deals": [
+      {
+        "title": "Menu Plaisir 150€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu dégustation 190€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 150€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu Déjeuner 60€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/294rtmv/lamaryllis-saint-remy",
@@ -2883,7 +3665,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/10%202017%2003%20PLATS%20BR.JPG?itok=YcFpCvte",
     "id": "203823",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Passagère/203823"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ank1c1/le-millenaire-reims",
@@ -2926,7 +3708,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/hnSASEwSQa1j42gA.jpg?itok=MsoEvPAR",
     "id": "3485",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Manoir-de-la-Boulaie/3485"
+    "deals": [
+      {
+        "title": "-20% off the \"à la carte\" menu",
+        "exclusions": "Set menus and drinks not included",
+        "is_menu": false,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fcezsf205/shang-palace-paris-16",
@@ -2941,7 +3730,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/410x198/public/news-image/10_poke_bowl.png?itok=bB81c6US",
     "id": "8977",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Shang-Palace/8977"
+    "deals": [
+      {
+        "title": "Menu 78€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 48€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Emeraude Menu 128€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Jade Menu 98€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2f8857v/frederic-simonin-paris-17",
@@ -2956,7 +3770,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/27Rs6LMIPamOqLBg_1.jpg?itok=n4NP9Vwx",
     "id": "23087",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Frédéric-Simonin/23087"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cv1ygx/le-senechal-sauveterre-de-rouergue",
@@ -2999,7 +3813,67 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Saint%20Jacques%20Patidou%20Butternut%20et%20Jambon%20Pata%20N%C3%A9gra.jpg?itok=TNK7ypra",
     "id": "29826",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Loiseau-des-Ducs/29826"
+    "deals": [
+      {
+        "title": "Menu 48€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 48€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 165€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 48€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 48€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 48€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 55€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 25€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2exgwy4/flaveur-nice",
@@ -3014,7 +3888,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/_DSC1840.jpg?itok=LQBnYNkv",
     "id": "38155",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Flaveur/38155"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ca9g6u/le-domaine-du-colombier-malataverne",
@@ -3057,7 +3931,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/DSC05747.JPG?itok=KqkilzPV",
     "id": "6710",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Rosiers/6710"
+    "deals": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2enmc29/jean-luc-tartarin-le-havre",
@@ -3072,7 +3953,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/MnTWmUsPKxur8yGA.jpg?itok=UtxKcFRr",
     "id": "2698",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Jean-Luc-Tartarin/2698"
+    "deals": [
+      {
+        "title": "Menu 198€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 69€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/ui89zrwk/les-explorateurs-val-thorens",
@@ -3101,7 +3995,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/KtQDST7Wr2fExm1g.jpg?itok=_RGYUEhW",
     "id": "66992",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Jasmin/66992"
+    "deals": [
+      {
+        "title": "Menu 30€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a95vol/mavrommatis-paris-05",
@@ -3116,7 +4017,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/iagneau-et-dolmades-copie-1024x683.jpg?itok=gnHbr00W",
     "id": "5727",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Mavrommatis/5727"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/yhoi9vry/la-table-de-lespadon-paris-01",
@@ -3145,7 +4046,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/S9SwePbm8QkmknvQ.jpg?itok=Rka3dA6G",
     "id": "6986",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Alexandre/6986"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2c4rgah/chapelle-saint-martin-nieul",
@@ -3160,7 +4061,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/NzTSe7rH7KSY3heg.jpg?itok=EBsY72XX",
     "id": "5609",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Chapelle-Saint-Martin/5609"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3xmi14j/origine-rouen",
@@ -3175,7 +4076,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/UYR-mjFVvhjEJ6rA.jpg?itok=xWYFd7DG",
     "id": "351691",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Origine/351691"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/ygx47dyb/la-scene-theleme-paris-17",
@@ -3190,7 +4091,50 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Sc%C3%A8ne%20Th%C3%A9l%C3%A8me%202.jpg?itok=anQ7iLE-",
     "id": "269585",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Scène-Thélème/269585"
+    "deals": [
+      {
+        "title": "-50% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu du Marché 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Promenade 129€",
+        "exclusions": "Prix par personne hors boisson.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Mardis Gourmands 99 €",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Déjeuner 39€ ou 49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/292bk5u/la-palme-dor-cannes",
@@ -3205,7 +4149,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/S9QNyDDYqAAKXbHg.jpg?itok=EBqQKVgW",
     "id": "287357",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Palme-d'Or/287357"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dntkxh/regis-et-jacques-marcon-saint-bonnet-le-froid",
@@ -3248,7 +4192,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/_OPE042-min.jpg?itok=m3U0WdtS",
     "id": "4465",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Pur'-Jean-François-Rouquette/4465"
+    "deals": [
+      {
+        "title": "Menu \"Carnet de voyage\" Accord Mets & Vins 275€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu \"Le Temps qui passe\" en Accord Mets & Vins 215€",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu 185€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 145€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29ryt77/auberge-de-la-diligence-loire",
@@ -3263,7 +4232,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/z0TtePYwR-3fW1HQ.jpg?itok=q9UR-1Le",
     "id": "6765",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-de-la-Diligence/6765"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bufvvg87/le-ptit-polyte-les-deux-alpes",
@@ -3292,7 +4261,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/410x198/public/news-image/07-neige_d_ete.png?itok=4IBSlX_W",
     "id": "46721",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Neige-d'Été/46721"
+    "deals": [
+      {
+        "title": "Menu  60€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 100€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu déjeuner 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b3jb0y/o-saveurs-rouffiac-tolosan",
@@ -3307,7 +4295,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/0KRCyKS4VEYRgARw.jpg?itok=qNw-dlwk",
     "id": "8719",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Ô-Saveurs/8719"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2atvlv0/la-mare-aux-oiseaux-saint-joachim",
@@ -3364,7 +4352,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/J.J%20Giordan%20www.photos-hdr.com%20JJ1D0259_60_61_62_63Balanced_preview.jpeg?itok=luMM4idt",
     "id": "26746",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Candille/26746"
+    "deals": [
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu Soir 55€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 70€",
+        "exclusions": "Prix indiqué par personne. Boissons : 1/2 bouteille d'eau + 2 verres de vin + Café",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 39€",
+        "exclusions": "Prix indiqué par personne. Hors boisson.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2c30770n/64deg-le-restaurant-kaysersberg-vignoble",
@@ -3393,7 +4406,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/eISXK6sHmDpweCPA.jpg?itok=R0MgkUHm",
     "id": "191",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Hélène-Darroze/191"
+    "deals": [
+      {
+        "title": "Business Lunch",
+        "exclusions": "Price par person.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Le Menu Dégustation 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Le Menu Découverte 98€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 58€",
+        "exclusions": "Prix par personne. Valable du mardi au samedi midi.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fcezsf/labeille-paris-16",
@@ -3408,7 +4446,25 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/_WRR6_0fRp3HioNw.jpg?itok=vlMbuIMt",
     "id": "8976",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Abeille/8976"
+    "deals": [
+      {
+        "title": "Menu Prestige 195€",
+        "exclusions": "Prix par personne. Valable uniquement du mardi au jeudi soir, hors jours fériés.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 260€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Tasting Menu 230€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/t3tqba7q/latelier-de-gaztelur-arcangues",
@@ -3423,7 +4479,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/svRyaRXf34MYe5Cw.jpg?itok=jR225lTv",
     "id": "78423",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Atelier-de-Gaztelur/78423"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29ktfvn/la-bastide-st-antoine-grasse",
@@ -3452,7 +4508,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Ed%20Em%202016-42.jpg?itok=Aan8sjJM",
     "id": "209193",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Ed.Em/209193"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2euo0rk/antoine-paris-16",
@@ -3467,7 +4523,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/3S5A2716.jpg?itok=p7sJt2sv",
     "id": "2185",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Antoine/2185"
+    "deals": [
+      {
+        "title": "Menu Mardis Gourmands 109€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29w1hx9/lepuisette-marseille-07",
@@ -3482,7 +4545,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/3ESQmgZiC7BYmA8A.jpg?itok=Qozr5Htj",
     "id": "22504",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Épuisette/22504"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29wzk9t/flocons-de-sel-megeve",
@@ -3525,7 +4588,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Cobea.jpg?itok=dkYqUxdE",
     "id": "15802",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Cobéa/15802"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2fa4jx5/le-carre-dalethius-charmes-sur-rhone",
@@ -3554,7 +4617,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Cuisses%20de%20grenouille%20en%20habit%20vert%20ail%20doux%20et%20artichauts%20r%C3%B4tis%20coulis%20de%20cresson%20acidul%C3%A93-MaisonRostang-JulieLimont-HD.jpg?itok=9et9Iu76",
     "id": "405",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Maison-Rostang/405"
+    "deals": [
+      {
+        "title": "Menu Prestige 115€ Tout Compris, le midi !",
+        "exclusions": "Prix par personne. Un verre de vin par Plat. \nDu mardi au vendredi, le midi.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu Prestige 195€ Tout Compris, le soir !",
+        "exclusions": "Prix par personne. Un verre de vin par plat. \nDu lundi au vendredi, le soir.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "The \"All Black Truffle\" Menu in 5 or 6 steps",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29qv5p8/auberge-frankenbourg-la-vancelle",
@@ -3583,7 +4665,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Alcyone.jpg?itok=rW19wGjy",
     "id": "31008",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Alcyone/31008"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29t2ib7/les-terrasses-de-lyon-lyon-05",
@@ -3598,7 +4680,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/ZISXSqiTDywm3t_w.jpg?itok=5QN2We1D",
     "id": "4697",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Terrasses-de-Lyon/4697"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a2adlj/la-nouvelle-auberge-wihr-au-val",
@@ -3613,7 +4695,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/q_Qyyelmv00gVNKw.jpg?itok=KY7BywBr",
     "id": "38024",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Nouvelle-Auberge/38024"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2c5ztru/chateau-dadomenil-luneville",
@@ -3642,7 +4724,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1-min-min.jpg?itok=tWz3iZUP",
     "id": "4904",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Hostellerie-de-Plaisance/4904"
+    "deals": [
+      {
+        "title": "Menu 68€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Souvenirs 185€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Plaisance 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28x69qn/le-strasbourg-bitche",
@@ -3657,7 +4758,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/_LThSzXsVwVd4s7Q.jpg?itok=w-CdeWoP",
     "id": "10382",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Strasbourg/10382"
+    "deals": [
+      {
+        "title": "Menu 75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dtzs6c/lescarbille-meudon",
@@ -3686,7 +4794,25 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/9fSymZDBF8DetJ0Q.jpg?itok=XYwVwA8r",
     "id": "77626",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Alliance/77626"
+    "deals": [
+      {
+        "title": "Menu 120€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 175€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Alliance 110€ et Menu Tentation 90€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2brjniu/herve-busset-conques-en-rouergue",
@@ -3701,7 +4827,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/NlRo6GDJKajchfjA.jpg?itok=cAejDcV9",
     "id": "128",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Hervé-Busset/128"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ct3bc6/le-belrose-bertaud",
@@ -3744,7 +4870,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/GISKO0FGRwvOH4RQ.jpg?itok=K61zYSgI",
     "id": "291337",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Épicure/291337"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2a7bw8d/les-jardins-de-lespadon-paris-01",
@@ -3759,7 +4885,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/A%20AJOUTER%20%281%29.jpg?itok=OMWs_g6u",
     "id": "269931",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Jardins-de-l'Espadon/269931"
+    "deals": [
+      {
+        "title": "Menu Carte 95€ et 120€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bnef6m/maison-lameloise-chagny",
@@ -3774,7 +4907,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/V5Rk2bAlAVZTUa8A.jpg?itok=ke8t7uTx",
     "id": "3552",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Maison-Lameloise/3552"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/9oo4cel/penati-al-baretto-paris-08",
@@ -3789,7 +4922,19 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Penati3.jpg?itok=o64Fej49",
     "id": "36448",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Penati-al-Baretto/36448"
+    "deals": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "MENU DÉJEUNER de 39€ à 55€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29nxch5/la-bergerie-sarpoil",
@@ -3832,7 +4977,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Ar%20Men%20Du.jpg?itok=VGmmdE_y",
     "id": "4961",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Ar-Men-Du/4961"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2851286/lorangerie-paris-08",
@@ -3861,7 +5006,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Georgio%20Armani%20Caffe2365-min.jpg?itok=pdDF1KwE",
     "id": "275457",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Armani-Ristorante/275457"
+    "deals": [
+      {
+        "title": "Prestige Menu 79€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28zmco9/atmospheres-le-bourget-du-lac",
@@ -3918,7 +5070,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/RfR2a5_nk1u-j0OA.jpg?itok=Y2o_ldnJ",
     "id": "68308",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Thierry-Drapeau/68308"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dckc0s/auberge-de-clochemerle-vaux-en-beaujolais",
@@ -3933,7 +5085,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Clochemerle3.jpg?itok=CrwPaxaO",
     "id": "2755",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-de-Clochemerle/2755"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b3pf5k/lamphitryon-colomiers",
@@ -3976,7 +5128,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/ixSeSgqo29r79SQg.jpg?itok=wr5g3lre",
     "id": "79692",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Assa/79692"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2e06dui/latelier-de-jean-luc-rabanel-arles",
@@ -4033,7 +5185,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/204250_2_0.jpg?itok=vWs1rDr_",
     "id": "1226",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Figuier-de-St-Esprit/1226"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dxwn73/la-maison-da-cote-montlivault",
@@ -4104,7 +5256,38 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/12652_1_0.jpg?itok=PxPozzxO",
     "id": "6792",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Domaine-de-la-Corniche/6792"
+    "deals": [
+      {
+        "title": "Menu 36€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 29€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 47€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 54€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28zi7ln/lamartine-le-bourget-du-lac",
@@ -4217,7 +5400,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/xISJCJ06RGnba80g.jpg?itok=dV0IyUL5",
     "id": "60859",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Nakatani/60859"
+    "deals": [
+      {
+        "title": "Menu 145€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 68€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 50€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bfnmbt/le-manoir-du-lys-bagnoles-de-lorne-normandie",
@@ -4232,7 +5440,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/10110_1_0.jpg?itok=-ywBkO7x",
     "id": "2740",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Manoir-du-Lys/2740"
+    "deals": [
+      {
+        "title": "Set Menu 49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 63€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 99€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b00ufd/auberge-au-boeuf-sessenheim",
@@ -4247,7 +5474,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/cESXSOZNPRpw2-nw.jpg?itok=nKL3mITu",
     "id": "44361",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-au-Boeuf/44361"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2blc3qr/chateau-de-mercues-mercues",
@@ -4262,7 +5489,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/gVRoCCTQXHeUnShw.jpg?itok=X-pQL5LU",
     "id": "13311",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Château-de-Mercuès/13311"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cqc8op/le-cap-saint-jean-cap-ferrat",
@@ -4305,7 +5532,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1%20%281%29.JPG?itok=lXfQMoX2",
     "id": "1310",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Xavier-Mathieu/1310"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3m56yu9/aux-anges-roanne",
@@ -4348,7 +5575,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/jFQeqPUlrkDbPGlg.jpg?itok=aXsGSLNq",
     "id": "4905",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Pressoir-d'Argent-Gordon-Ramsay/4905"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/9tmwymw/kei-paris-01",
@@ -4461,7 +5688,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/mascaret.jpg?itok=xSX_weCk",
     "id": "387",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Mascaret/387"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/i1i7i9b/la-table-de-la-bergerie-le-champ-sur-layon",
@@ -4602,7 +5829,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/121265_3_0.jpg?itok=PZxkYmKE",
     "id": "8933",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Clefs-d'Argent/8933"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cn0867/grand-hotel-du-lion-dor-romorantin-lanthenay",
@@ -4701,7 +5928,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/L%27Ecrin-Paris.jpg?itok=XCuQfxre",
     "id": "326081",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Écrin/326081"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3kw7mh1/logis-de-la-cadene-saint-emilion",
@@ -4716,7 +5943,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/8iQLKotc0UTas3Wg.jpg?itok=F-cK0Aq-",
     "id": "44000",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Logis-de-la-Cadène/44000"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ek9zhh/apicius-clermont-ferrand",
@@ -4745,7 +5972,43 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/ASPERGE%20verte%20en%20blanc-manger%20_%20Blanche%20a%20la%20Maltaise%20_%20Julien%20Lefebvre%20_%20CordeillanBages.jpg?itok=ln8O1jzV",
     "id": "366063",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Château-Cordeillan-Bages/366063"
+    "deals": [
+      {
+        "title": "Equilibre 155€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Primeurs  60€ (only for lunch)",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Primeurs  45€ (for lunch only)",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Mother's day 125€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "MILLESIMES  120€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "MILLESIMES  75€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dtoif7/les-voiles-dor-dieppe",
@@ -4774,7 +6037,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/IeQ6GxfzwX2hypaw.jpg?itok=hPYVDkSN",
     "id": "3131",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Gordon-Ramsay-au-Trianon/3131"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/297ge86/jean-claude-leclerc-clermont-ferrand",
@@ -4803,7 +6066,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/GkQ9KdfAZbE3YbBQ.jpg?itok=vz9wU-Dt",
     "id": "347931",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/SEPT/347931"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2f4bg71/la-pyramide-patrick-henriroux-vienne",
@@ -4832,7 +6095,13 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/49TyGqFphvsw031w.jpg?itok=9fatm9nd",
     "id": "24998",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Restaurant-des-Rois/24998"
+    "deals": [
+      {
+        "title": "Easter Menu Menu 125€",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2852206/larcheste-paris-16",
@@ -4847,7 +6116,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Image%201.jpg?itok=eqHjfPZV",
     "id": "284489",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Archeste/284489"
+    "deals": [
+      {
+        "title": "Menu autour de la Truffe et Caviar 180€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Carte Blanche le Soir 110€",
+        "exclusions": "Prix par personne. Hors boisson.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Carte Blanche le Midi 52€ et 72€",
+        "exclusions": "Prix par personne.\nHors boisson.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aa11xs/arpege-paris-07",
@@ -4876,7 +6164,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/Plat-003.jpg?itok=vhEHnwAY",
     "id": "19211",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/1741/19211"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28vem1k/la-grange-de-belle-eglise-belle-eglise",
@@ -4891,7 +6179,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/jWTVu4r2Xm-5qaHA.jpg?itok=go6zi1tT",
     "id": "28557",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Grange-de-Belle-Église/28557"
+    "deals": [
+      {
+        "title": "-30% sur la carte",
+        "exclusions": "Set menus and drinks not included",
+        "is_menu": false,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2byq8tg/les-bories-gordes",
@@ -4906,7 +6201,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/_6S2Oa611dcUyx1A.jpg?itok=6HJSpzpW",
     "id": "27598",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Bories/27598"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3vxe9bf/toya-faulquemont",
@@ -4963,7 +6258,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/fdQVyA50khCJXa1g.jpg?itok=oSb8Lwuv",
     "id": "2970",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Renaissance/2970"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29uvz3j/pierre-macon",
@@ -5006,7 +6301,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/9FTKCK7Mi2xOTeUg.jpg?itok=PX8NLcCv",
     "id": "46990",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Rackham/46990"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2f8ln9w/la-table-breizh-cafe-cancale",
@@ -5035,7 +6330,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/6_29.jpg?itok=MLfZ4Ftw",
     "id": "43399",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Grignotière/43399"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3yjthyc/le-musigny-valenciennes",
@@ -5050,7 +6345,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/9eJPHkhYTUS8UG3qj6iI6w.jpg?itok=oyEFS0_g",
     "id": "32118",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Musigny/32118"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2e8vcj7/larome-paris-08",
@@ -5065,7 +6360,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/DSC_2229A.jpg?itok=Xw9xL3hv",
     "id": "713",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Arôme/713"
+    "deals": [
+      {
+        "title": "Menu Mardis Gourmands 139€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dyaa0w/la-cachette-valence",
@@ -5094,7 +6396,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/X0T_-sDhTHHmDU4g.jpg?itok=LhIFjK7e",
     "id": "26660",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Vague-d'Or/26660"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b6gbtl/le-bec-au-cauchois-valmont",
@@ -5109,7 +6411,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/20170625_173746-min.jpg?itok=XdzDVpX7",
     "id": "3401",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Bec-au-Cauchois/3401"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2faahd5/le-clair-de-la-plume-grignan",
@@ -5124,7 +6426,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le%20Clair%20de%20la%20Plume.jpg?itok=PeRjGxg4",
     "id": "18271",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Clair-de-la-Plume/18271"
+    "deals": [
+      {
+        "title": "Menu truffe d'hiver en 7 services 175€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Ephémère 39€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 59€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28yvb9u/la-matelote-boulogne-sur-mer",
@@ -5139,7 +6460,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/La%20Matelote%20Boulogne%20sur%20mer%20-%20AVRIL%202017%20%281%29.jpg?itok=VGlMWA3k",
     "id": "35192",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Matelote/35192"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ewn3lj/latelier-du-peintre-colmar",
@@ -5154,7 +6475,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/L%27ATELIER_DU_PEINTRE_261.jpg?itok=F-2EPATn",
     "id": "6437",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Atelier-du-Peintre/6437"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2d2wqpd/le-prieure-villeneuve-les-avignon",
@@ -5169,7 +6490,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Prieur%C3%A9%202.jpg?itok=lRO5uMVc",
     "id": "689",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Prieuré/689"
+    "deals": [
+      {
+        "title": "Easter Holydays Menu 100€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2d32mvv/le-france-villers-le-lac",
@@ -5184,7 +6512,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1_261.jpg?itok=jvks752m",
     "id": "221",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-France/221"
+    "deals": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b3631b/stephane-tournie-les-jardins-de-lopera-toulouse",
@@ -5227,7 +6562,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/6_103.jpg?itok=JpWhqJ-p",
     "id": "77613",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Meurin/77613"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29t3z0x/les-loges-lyon-05",
@@ -5242,7 +6577,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/4_160.jpg?itok=Bc4D8L8d",
     "id": "15418",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Loges/15418"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aoyre2/maximilien-zellenberg",
@@ -5271,7 +6606,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/DJSAelGxAeiHTCSg.jpg?itok=3Gtt_Foo",
     "id": "291345",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/114,-Faubourg/291345"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/akfvyg8/la-table-de-nans-la-ciotat",
@@ -5286,7 +6621,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/znQkWGBXPeBXPpPQ.jpg?itok=e6PqgY-7",
     "id": "23303",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-de-Nans/23303"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29ajku0/le-lido-propriano",
@@ -5329,7 +6664,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/uCShWwokLpkghVkA.jpg?itok=62IiBZmf",
     "id": "2975",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-du-Gourmet/2975"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29trkin/le-gourmet-de-seze-lyon-06",
@@ -5344,7 +6679,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Gourmet%20de%20Seze.jpg?itok=jjlPva_l",
     "id": "28558",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Gourmet-de-Sèze/28558"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/olnthqo/skab-nimes",
@@ -5373,7 +6708,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/AM2A6561.jpg?itok=YIzro83M",
     "id": "291883",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-de-l'Alpaga/291883"
+    "deals": [
+      {
+        "title": "Menu 105€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 135€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 215€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 160€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29dyqga/auberge-de-la-charme-prenois",
@@ -5388,7 +6748,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1609_Reportage_Charme77-min.jpg?itok=841rXTx1",
     "id": "2579",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-de-la-Charme/2579"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2d1gnwo/le-saint-martin-vence",
@@ -5417,7 +6777,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Au%20crocodile%205.jpg?itok=Ahxwvo5h",
     "id": "71542",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Au-Crocodile/71542"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/1t2b08px/jin-paris-01",
@@ -5432,7 +6792,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/JINcomptoir1-min.jpg?itok=tcSQc8NK",
     "id": "30379",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Jin/30379"
+    "deals": [
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 145€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bavyqh/la-lorraine-zoufftgen",
@@ -5475,7 +6848,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/HiTmWmjV7PREAaCQ.jpg?itok=zS6izOwL",
     "id": "18939",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Bistro-des-Saveurs/18939"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bwkh5l/la-chevre-dor-eze",
@@ -5504,7 +6877,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/03QZuSCeQZCXYpAkfik3dg.jpg?itok=pQ4b0P_f",
     "id": "4294",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Maison-dans-le-Parc/4294"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2916876/copenhague-paris-08",
@@ -5519,7 +6892,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Copenhague%203.jpg?itok=S0kiMlW7",
     "id": "25985",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Copenhague/25985"
+    "deals": [
+      {
+        "title": "Offre Découverte Signature 115€",
+        "exclusions": "Prix par personne. \nTous les soirs du lundi au jeudi.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cz3yz2/le-vieux-logis-tremolat",
@@ -5534,7 +6914,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/IkTHGBKc28Zjk_MA.jpg?itok=_wmeqAx3",
     "id": "6018",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Vieux-Logis/6018"
+    "deals": [
+      {
+        "title": "\"Menu \"Balade EstTaxesle\" Accord Mands and Vins 105€\"",
+        "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Tapas 49€",
+        "exclusions": "Price per person. Menu imposé : Il ne sera pas possible de commander to la carte. Monday to Friday lunch. Non Valid les public holiday.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2eac1q1/le-1947-courchevel-1850",
@@ -5549,7 +6942,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/HjQVGAeeRveT337g.jpg?itok=AEBLLYzn",
     "id": "33786",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-1947/33786"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/9wstvf9t/la-table-de-manville-les-baux-de-provence",
@@ -5564,7 +6957,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/La%20Table%20photo%20principale.jpg?itok=pNE_hvVx",
     "id": "77571",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-de-Manville/77571"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/9pbvgq6a/fontevraud-le-restaurant-fontevraud-labbaye",
@@ -5579,7 +6972,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Fontevraud%20Le%20Restaurant.jpg?itok=ApCpbqfb",
     "id": "63173",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Fontevraud-Le-Restaurant/63173"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2btuhm0/la-palmeraie-la-croix-valmer",
@@ -5650,7 +7043,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/kPRgefQmNywRqtFQ.jpg?itok=dsUmW_4M",
     "id": "4546",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-des-Saints-Pères/4546"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28wgjgo/le-pave-dauge-beuvron-en-auge",
@@ -5749,7 +7142,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/TbQrqRFl_-KCmPMw.jpg?itok=GwDimZFh",
     "id": "26327",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Elsa/26327"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2coonxc/les-trois-soleils-de-montal-saint-cere",
@@ -5932,7 +7325,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/IMG_0003%20%282%29-min_1.JPG?itok=QFfXHyuX",
     "id": "2998",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Christopher-Coutanceau/2998"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b7at88/dan-b-la-table-de-ventabren-ventabren",
@@ -5975,7 +7368,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Exterieur---079-compressor.jpg?itok=XtvUKd4Y",
     "id": "7135",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Trois-Rochers/7135"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2erjwfi/une-ile-angers",
@@ -6004,7 +7397,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/pTTxqL4SJQAWEx4g.jpg?itok=kyoqHmIS",
     "id": "60775",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-du-Connétable/60775"
+    "deals": [
+      {
+        "title": "Menu 165€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 140€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 67€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/28qr6q2/la-chassagnette-arles",
@@ -6019,7 +7437,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/10-03-2016%20CHASSAGNETTE-9396.jpg?itok=JvlDZrJx",
     "id": "14529",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Chassagnette/14529"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/jh83esx/qui-plume-la-lune-paris-11",
@@ -6034,7 +7452,38 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/4TTyK98Sc_FiDXng.jpg?itok=TjqR4Jlp",
     "id": "11295",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Qui-plume-la-Lune/11295"
+    "deals": [
+      {
+        "title": "Menu lunch prestige 90€ tout compris",
+        "exclusions": "By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte. Only lunch.",
+        "is_menu": true,
+        "is_special_offer": true
+      },
+      {
+        "title": "Menu Déjeuner 45€",
+        "exclusions": "Only for Lunch.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Lucie 130€",
+        "exclusions": "The Menu Lucie 130€ is the only menu available on dinner.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Angèle 85€",
+        "exclusions": "Only for Lunch.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Iphigénie 60€",
+        "exclusions": "Only for Lunch.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/44ahwpa/le-passe-temps-lyon-06",
@@ -6049,7 +7498,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/IMG_1181-h1024.JPG?itok=7-NCuV4Q",
     "id": "323145",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Passe-Temps/323145"
+    "deals": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "prix par personne",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu  60€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 30€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/1ad26y4c/likoke-les-vans",
@@ -6078,7 +7546,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/La%20Table%20du%2011%20-%202.jpg?itok=8casYbQx",
     "id": "58408",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-du-11/58408"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bnvpvu/albert-1er-chamonix-mont-blanc",
@@ -6135,7 +7603,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/prairial%20mai%202017-17.jpg?itok=NQ8RkhTX",
     "id": "75043",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Prairial/75043"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/akc6ovv/latelier-yssoirien-issoire",
@@ -6178,7 +7646,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le_Vivier_08-16_BD_%C2%A9EGentils-8%5B1%5D.jpg?itok=jdyT3E1u",
     "id": "1086",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Vivier/1086"
+    "deals": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 58€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu du \"Marché\" 32€",
+        "exclusions": "Menu disponible du mardi au jeudi, le midi uniquement.\nHors jours fériés",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29ask7o/auberge-de-la-brie-couilly-pont-aux-dames",
@@ -6221,7 +7708,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Buerehiesel-jardin%20d%27hiver%201.jpg?itok=aQ14Ke2M",
     "id": "3592",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Buerehiesel/3592"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aeq3md/astrance-paris-16",
@@ -6236,7 +7723,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/BeSd65S7vQNNrgAg.jpg?itok=9l4xU_N_",
     "id": "344379",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Astrance/344379"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ey495p/serge-vieira-chaudes-aigues",
@@ -6307,7 +7794,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1_327.jpg?itok=X7pNxkx3",
     "id": "30315",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Climats/30315"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ezpxm7/passage-53-paris-02",
@@ -6350,7 +7837,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/mirambeau-restaurant-003.jpg?itok=_utHmbu2",
     "id": "5487",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Château-de-Mirambeau/5487"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2f80e2p/au-14-fevrier-saint-valentin",
@@ -6421,7 +7908,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/wLTaWHc6noIwMiew.jpg?itok=yCqkrNhR",
     "id": "15413",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Les-Trois-Dômes/15413"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/295zuzb/guy-lassausaie-chasselay",
@@ -6450,7 +7937,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/Le%20George.jpg?itok=by-ny7fE",
     "id": "73961",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-George/73961"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29k1mm1/restaurant-de-lauzun-gignac",
@@ -6507,7 +7994,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/jgSIa79aYpoWVQ0A.jpg?itok=vCaYw3Ee",
     "id": "35146",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Atelier-de-Joël-Robuchon-Étoile/35146"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2bj1jms/la-bastide-de-capelongue-bonnieux",
@@ -6578,7 +8065,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/5954_1_1.jpg?itok=1ZVtuaQA",
     "id": "269053",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Ze-Kitchen-Galerie/269053"
+    "deals": [
+      {
+        "title": "Menu de 41€ à 72€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Découverte 98€",
+        "exclusions": "Price per person.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Découverte 85€",
+        "exclusions": "Price per person.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2axydtb/la-tour-sancerre",
@@ -6607,7 +8113,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/q5SYKNAJ5Cf6d7Zg.jpg?itok=zoX2ZA31",
     "id": "7715",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Terre-Mer/7715"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2agz71j/la-table-des-blot-auberge-du-chateau-dampierre-en-yvelines",
@@ -6678,7 +8184,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/tDS4-W3d77TmhhdQ.jpg?itok=WQgs8V8a",
     "id": "42187",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Promenade/42187"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/s5y0mmq/en-pleine-nature-fonsegrives",
@@ -6763,7 +8269,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/44900_1_0.jpg?itok=c__ROQAh",
     "id": "30143",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Atelier-de-Joël-Robuchon-St-Germain/30143"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2b380z8/michel-sarran-toulouse",
@@ -6792,7 +8298,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1200x800%20levernois.jpg?itok=sN_jsAkc",
     "id": "3507",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Hostellerie-de-Levernois/3507"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/294fsc5/la-table-de-chaintre-chaintre",
@@ -6821,7 +8327,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/LmTiyfTzcb6wrUyA.jpg?itok=9rwB8iiY",
     "id": "529",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Puits-du-Trésor/529"
+    "deals": [
+      {
+        "title": "Set Menus from 47€ to 93€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/jfxt32k/le-bistrot-de-lagarde-lagarde-dapt",
@@ -6850,7 +8363,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/F9TEyU50ssMqbQxg.jpg?itok=hL_AQ1Bj",
     "id": "46885",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Gambetta/46885"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ckuncq/michel-trama-puymirol",
@@ -6991,7 +8504,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/jBRr21ii4d2diaBw.jpg?itok=xXkb8yzh",
     "id": "10889",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Septime/10889"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29o99va/la-ribaudiere-bourg-charente",
@@ -7048,7 +8561,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/235136_1_1.jpg?itok=c-33nz7V",
     "id": "11743",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Brikéténia/11743"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/13ppe4f4/auberge-du-vert-mont-boeschepe",
@@ -7063,7 +8576,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "31795",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-du-Vert-Mont/31795"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/9tuayn9/la-coquerie-sete",
@@ -7106,7 +8619,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/JARA6Z_RrVlovuOw.jpg?itok=nBs_1WKw",
     "id": "61705",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Camélia/61705"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ahm97s/le-village-marly-le-roi",
@@ -7121,7 +8634,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/WpQgmrHMdJblSe2w.jpg?itok=Dx7lm4Vz",
     "id": "330375",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Village/330375"
+    "deals": [
+      {
+        "title": "Menu 100€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Set Menu 40€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 50€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2et2alx/la-table-deugene-paris-18",
@@ -7136,7 +8668,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/QqQWaRrPnovQ2L-g.jpg?itok=Xl7qFvEk",
     "id": "36884",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Table-d'Eugène/36884"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29v2jed/le-bon-accueil-malbuisson",
@@ -7193,7 +8725,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/8AT2i2pfDVN5Ebxw.jpg?itok=ulo6zARl",
     "id": "44919",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Miraflores/44919"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2anjd1l/le-foch-reims",
@@ -7236,7 +8768,32 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "8628",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Park-45/8628"
+    "deals": [
+      {
+        "title": "Menu  60€",
+        "exclusions": "Prix par personne",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 190€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 95€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2dcnkds/la-marande-montbellet",
@@ -7251,7 +8808,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/41438_1_1.jpg?itok=JfXusPwd",
     "id": "2889",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Marande/2889"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29yz8b5/la-gloire-montargis",
@@ -7294,7 +8851,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/959_1_0.jpg?itok=gqdP-0r5",
     "id": "6482",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Vieux-Pont/6482"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2d4rcim/le-belvedere-bozouls",
@@ -7379,7 +8936,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/BhREqM95c_RORF4A.jpg?itok=e7QBGddU",
     "id": "12601",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Cerf/12601"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2eh8fjc/le-pily-cherbourg-en-cotentin",
@@ -7492,7 +9049,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/23290_1_0.jpg?itok=Hz4TVZVV",
     "id": "7876",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Mon-Plaisir/7876"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2f8f1gn/au-14-fevrier-lyon-05",
@@ -7535,7 +9092,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/DSC_0614.JPG?itok=WuGT-MxM",
     "id": "21095",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Jérémy-Galvan/21095"
+    "deals": [
+      {
+        "title": "Menu 33€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 65-85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29pm63n/la-ville-blanche-rospez",
@@ -7634,7 +9204,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/N6QR69Vg_a_4xVjQ.jpg?itok=ur1CMrdw",
     "id": "5020",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/La-Fourchette-du-Printemps/5020"
+    "deals": [
+      {
+        "title": "Menu Gourmands 79€",
+        "exclusions": "Prix par personne.",
+        "is_menu": true,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3wc5nsy/contre-sens-caen",
@@ -7663,7 +9240,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "313905",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-Le-Prieuré/313905"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3ffvej5j/table-bruno-verjus-paris-12",
@@ -7818,7 +9395,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_portrait/public/CjRyquRwqXLk95hg.jpg?itok=2OZ5oPUJ",
     "id": "5756",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Palm-Beach/5756"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ewldde/yamtcha-paris-01",
@@ -7833,7 +9410,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/256653_1_0.jpg?itok=l5U7OjVh",
     "id": "346045",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Yam'Tcha/346045"
+    "deals": [
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29ifnwu/la-bonne-auberge-stiring-wendel",
@@ -7862,7 +9446,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/6479_1_1.jpg?itok=LbXTzUv0",
     "id": "60418",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Apicius/60418"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2e29zv6/henri-et-joseph-lorient",
@@ -7877,7 +9461,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/123055_1_1.jpg?itok=R85PkGQI",
     "id": "8838",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Henri-et-Joseph/8838"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2cqrobi/les-pyrenees-saint-jean-pied-de-port",
@@ -7906,7 +9490,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "8760",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Saturne/8760"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2aabj6o/gaya-rive-gauche-par-pierre-gagnaire-paris-07",
@@ -7977,7 +9561,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "324425",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Neuvième-Art/324425"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2duw4bw/les-tables-de-gaspard-saint-crepin",
@@ -8006,7 +9590,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "24272",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/St-James-Paris/24272"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/29b4lr4/le-montgomerie-courchevel-1850",
@@ -8035,7 +9619,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/1MQ9mNR08a0tHLKQ.jpg?itok=tra_8dml",
     "id": "65607",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Château-de-Sable/65607"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/sv592kt5/mickael-feval-aix-en-provence",
@@ -8050,7 +9634,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "77134",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Mickaël-Féval/77134"
+    "deals": [
+      {
+        "title": "Menu 35€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Dégustation 87€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Tentation 63€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2abdvpo/laurent-paris-08",
@@ -8065,7 +9668,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/vVQPOc7LpW84_KPQ.jpg?itok=1ONqQsef",
     "id": "310489",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Laurent/310489"
+    "deals": [
+      {
+        "title": "-30% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      },
+      {
+        "title": "-20% off the \"à la carte\" menu!",
+        "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+        "is_menu": false,
+        "is_special_offer": true
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2ayc9n6/auberge-st-walfrid-sarreguemines",
@@ -8080,7 +9696,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/8472_1_0.jpg?itok=HjTpaLkR",
     "id": "7784",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Auberge-St-Walfrid/7784"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2jtf0iqj/transparence-la-table-de-patrick-frechin-nancy",
@@ -8109,7 +9725,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "6655",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Clovis/6655"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/suqhhtor/allium-quimper",
@@ -8208,7 +9824,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "38154",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/L'Aromate/38154"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3ws5njk2/les-genets-brem-sur-mer",
@@ -8335,7 +9951,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "25701",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Garance/25701"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/u5aaw2ah/le-grand-restaurant-jean-francois-piege-paris-08",
@@ -8420,7 +10036,14 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "276775",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Garopapilles/276775"
+    "deals": [
+      {
+        "title": "Menu 69€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2armsjm/auberge-du-paradis-platre-durand",
@@ -8449,7 +10072,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/files/styles/poi_detail_landscape/public/9000_1_0.jpg?itok=BnxB9Z0T",
     "id": "306505",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Pavillon/306505"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/eiak4cnv/racine-reims",
@@ -8562,7 +10185,20 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "317587",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Pertinence/317587"
+    "deals": [
+      {
+        "title": "Menu 85€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 38€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2e6jtym/le-chateaubriand-paris-11",
@@ -8577,7 +10213,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "202436",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Le-Chateaubriand/202436"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/294k5c0/jerome-feck-chalons-en-champagne",
@@ -8620,7 +10256,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "276169",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Ken-Kawasaki/276169"
+    "deals": [
+      {
+        "title": "Menu 70€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 45€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 30€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2851256/le-skiff-club-la-teste-de-buch",
@@ -8677,7 +10332,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "209577",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Restaurant-H/209577"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/2852091/sushi-b-paris-02",
@@ -8706,7 +10361,36 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "272053",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Divellec/272053"
+    "deals": [
+      {
+        "title": "Brunch 65€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Brunch 49€",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 49€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 90€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu 210€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3614676/la-merise-laubach",
@@ -8749,7 +10433,26 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "272593",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Montée/272593"
+    "deals": [
+      {
+        "title": "Menu Déjeuner 40€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu Carte Blanche le Soir 80€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      },
+      {
+        "title": "Menu formule pour midi 32€",
+        "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+        "is_menu": true,
+        "is_special_offer": false
+      }
+    ]
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3616226/lauberge-de-bagatelle-le-mans",
@@ -8792,7 +10495,7 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "337449",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Comice/337449"
+    "deals": []
   },
   {
     "michelinUrl": "https://restaurant.michelin.fr/3623606/la-table-dhotes-le-quatrieme-mur-bordeaux",
@@ -8849,6 +10552,6 @@
     "imageUrl": "https://restaurant.michelin.fr/sites/mtpb2c_fr/themes/mtpb2c/custom/michelin/img/logo_michelin_fr.png",
     "id": "317277",
     "isOnLaFourchette": true,
-    "lafourchetteUrl": "https://www.lafourchette.com/restaurant/Quinsou/317277"
+    "deals": []
   }
 ]

@@ -23,6 +23,7 @@ function getRestaurantsID(restaurantsList, idx) {
         if(currentRestaurant.address.postalCode == returnedRestaurant.address.postal_code){
           currentRestaurant.id = returnedRestaurant.id;
           currentRestaurant.isOnLaFourchette = true;
+          currentRestaurant.lafourchetteUrl = 'https://www.lafourchette.com/restaurant/' + currentRestaurant.name.replace(/ /g, '-').replace(/--+/g, '-') + '/' + currentRestaurant.id;
           foundedRestaurants++;
         }
       });
@@ -52,6 +53,74 @@ exports.getAllRestaurantsIdOnLaFourchette = function(restaurantsList){
       console.log('-----------------------');
       console.log('Json with LaFourchette IDs done');
       console.log("Number of restaurants founded on LaFourchette : " + foundedRestaurants);
+    })
+  })
+}
+
+
+function getRestaurantsDeals(restaurantsList, idx) {
+  return new Promise(function(resolve, reject){
+    var currentRestaurant = restaurantsList[idx];
+
+    if(currentRestaurant.isOnLaFourchette){
+
+      var restaurantUrl = 'https://m.lafourchette.com/api/restaurant/' + currentRestaurant.id + '/sale-type';
+      console.log((idx+1) + ' : getting deals of ' + currentRestaurant.name + ' on ' + restaurantUrl);
+      request(restaurantUrl, function(err, response, body){
+        if(err){
+          console.error(err);
+          return reject(err);
+        }
+
+        var results = JSON.parse(body);
+        currentRestaurant.deals = [];
+        results.forEach(function(deal){
+          if(deal.title != 'Simple booking'){
+            if('exclusions' in deal){
+              currentRestaurant.deals.push({
+                title: deal.title,
+                exclusions: deal.exclusions,
+                is_menu: deal.is_menu,
+                is_special_offer: deal.is_special_offer
+              });
+            }
+            else {
+              currentRestaurant.deals.push({
+                title: deal.title,
+                is_menu: deal.is_menu,
+                is_special_offer: deal.is_special_offer
+              });
+            }
+          }
+        });
+
+        setTimeout(function(){
+          return resolve(restaurantsList);
+        }, 0);
+      })
+    }
+    else {
+      console.log((idx+1) + ' : ' + currentRestaurant.name + ' is not on LaFourchette');
+      setTimeout(function(){
+        return resolve(restaurantsList);
+      }, 0);
+    }
+  })
+}
+
+exports.getAllRestaurantsDealsOnLaFourchette = function(restaurantsList){
+  restaurantsList.reduce(function(prev, elt, idx, array){
+    return prev.then(function(restaurantsList){
+      return getRestaurantsDeals(array, idx);
+    })
+  }, Promise.resolve([]))
+  .then(function(restaurantsList){
+    jsonfile.writeFile('restaurants_list_withDeals.json', restaurantsList, {spaces: 2}, function(err){
+      if(err){
+        console.error(err);
+      }
+      console.log('-----------------------');
+      console.log('Json with LaFourchette Deals done');
     })
   })
 }
