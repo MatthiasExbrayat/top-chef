@@ -9,7 +9,7 @@ for(var i=1; i<36; i++){
   pages.push(url+i.toString());
 }
 
-function getRestaurantsUrls(pageUrl, result) {
+function getRestaurantsURLs(pageUrl, result) {
   return new Promise(function(resolve, reject){
     request(pageUrl, function(err, response, body){
       if(err){
@@ -21,9 +21,9 @@ function getRestaurantsUrls(pageUrl, result) {
 
       $('.ds-1col.node.node--poi.view-mode-poi_card.node--poi-card').each(function(){
 					var currentRestaurant = {
-									michelinUrl: 'https://restaurant.michelin.fr' + $('a', this).attr('href')
+									URL_Michelin: 'https://restaurant.michelin.fr' + $('a', this).attr('href')
 					};
-					console.log(currentRestaurant.michelinUrl);
+					console.log(currentRestaurant.URL_Michelin);
           result.push(currentRestaurant);
       });
 
@@ -36,8 +36,8 @@ function getRestaurantsUrls(pageUrl, result) {
 
 function getRestaurantsInformations(restaurantsList, idx) {
   return new Promise(function(resolve, reject){
-    console.log((idx+1) + ' : getting informations of ' + restaurantsList[idx].michelinUrl);
-    request(restaurantsList[idx].michelinUrl, function(err, response, body){
+    console.log((idx+1) + ' : getting informations of ' + restaurantsList[idx].URL_Michelin);
+    request(restaurantsList[idx].URL_Michelin, function(err, response, body){
       if(err){
         console.error(err);
         return reject(err);
@@ -46,15 +46,15 @@ function getRestaurantsInformations(restaurantsList, idx) {
       $ = cheerio.load(body);
 
 			restaurantsList[idx].name = $('.poi_intro-display-title').text().trim();
-			restaurantsList[idx].category = $('.poi_intro-display-cuisines').text().replace(/;/g,',').trim();
+			restaurantsList[idx].categories = $('.poi_intro-display-cuisines').text().replace(/;/g,',').trim();
 			if($('span').hasClass('guide-icon icon-mr icon-cotation3etoiles')){
-          restaurantsList[idx].stars = 3;
+          restaurantsList[idx].michelinStars = 3;
       }
       else if ($('span').hasClass('guide-icon icon-mr icon-cotation2etoiles')) {
-          restaurantsList[idx].stars = 2;
+          restaurantsList[idx].michelinStars = 2;
       }
       else {
-          restaurantsList[idx].stars = 1;
+          restaurantsList[idx].michelinStars = 1;
 			}
       restaurantsList[idx].address = {
         street: $('.street-block', '.field.field--name-field-address.field--type-addressfield.field--label-hidden').first().text(),
@@ -63,12 +63,12 @@ function getRestaurantsInformations(restaurantsList, idx) {
       }
 			try
       {
-        restaurantsList[idx].imageUrl = $("img")[1].attribs['data-src']; // the image is always the second on the page
+        restaurantsList[idx].URL_image = $("img")[1].attribs['data-src']; // the image is always the second on the page
         //when there is no image for the restaurant the index 1 is a standart michelin image (which is ok when there is nothing)
       }
       catch (e)// just in case there is no images at all on the web page
       {
-        restaurantsList[idx].imageUrl = null;
+        restaurantsList[idx].URL_image = null;
 			}
 
       setTimeout(function(){
@@ -78,19 +78,19 @@ function getRestaurantsInformations(restaurantsList, idx) {
   });
 }
 
-exports.getUrlsOnMichelin = function() {
+exports.getURLsOnMichelin = function() {
   pages.reduce(function(prev, elt, idx, array){
     return prev.then(function(results){
-      return getRestaurantsUrls(elt, results)
+      return getRestaurantsURLs(elt, results)
     })
   }, Promise.resolve([]))
   .then(function(results){
-    jsonfile.writeFile('michelin_restaurants_urls_list.json', results, {spaces: 2}, function(err){
+    jsonfile.writeFile('restaurants_list_with_michelinURL.json', results, {spaces: 2}, function(err){
       if(err){
         console.error(err);
       }
 			console.log('-----------------------');
-      console.log('Json with restaurants url done');
+      console.log('Json with restaurants URL done');
       console.log("Number of restaurants: " + results.length);
     });
   });
@@ -103,7 +103,7 @@ exports.getRestaurantsInformationsOnMichelin = function(restaurantsList) {
     })
   }, Promise.resolve([]))
   .then(function(restaurantsList){
-    jsonfile.writeFile('michelin_restaurants_informations_list.json', restaurantsList, {spaces: 2}, function(err){
+    jsonfile.writeFile('restaurants_list_with_michelinInformations.json', restaurantsList, {spaces: 2}, function(err){
       if(err){
         console.error(err);
       }
