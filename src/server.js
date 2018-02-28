@@ -2,17 +2,17 @@ var michelin = require("./michelin");
 var lafourchette = require("./lafourchette");
 var jsonfile = require('jsonfile');
 
-//We need to execute each stage one after one.
+//We need to execute each stage one after one by comment and uncomment each stage.
 
-/*1 - Getting the starred restaurants list of michelin*/
-//restaurantsList = michelin.getRestaurants();
+/*1 - Getting the starred restaurants urls list of michelin*/
+//michelin.getUrlsOnMichelin();
 
-/*2 - Getting the starred restaurants list founded on lafourchette*/
-/*jsonfile.readFile('michelin_restaurants_list.json', function(err, restaurants){
-  lafourchette.searchAllRestaurants(restaurants);
+/*2 - Getting the starred restaurants informations on michelin*/
+/*jsonfile.readFile('michelin_restaurants_urls_list.json', function(err, restaurantsList){
+  michelin.getRestaurantsInformationsOnMichelin(restaurantsList);
 });*/
 
-/*3 - Getting the starred restaurants deals list founded on lafourchette*/
-jsonfile.readFile('lafourchette_restaurants_list.json', function(err, restaurants){
-  lafourchette.getAllRestaurantDeals(restaurants);
+/*3 - Search the michelin starred restaurants which are on LaFourchette and get their id*/
+jsonfile.readFile('michelin_restaurants_informations_list.json', function(err, restaurantsList){
+  lafourchette.getAllRestaurantsIdOnLaFourchette(restaurantsList);
 });
