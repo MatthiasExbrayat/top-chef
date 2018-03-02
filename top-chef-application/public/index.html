@@ -1,167 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>CSS/HTML Workshop with Convargo</title>
-
-    <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://storage.googleapis.com/code.getmdl.io/1.0.1/material.teal-red.min.css" rel="stylesheet"/>
+    <link href="css/script.css" rel="stylesheet">
 
-    <!-- Custom fonts for this template -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="manifest" href="manifest.json">
+    <link rel="shortcut icon" href="favicon.ico">
 
-    <!-- Custom styles for this template -->
-    <link href="css/creative.css" rel="stylesheet">
-
+    <title>Top Chef App</title>
   </head>
+  <body id="page-top">
 
-  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-      <div class="container">
-        <a class="navbar-brand js-scroll-trigger">Convargo</a>
-      </div>
-    </nav>
+    <div id="root">
 
-    <header class="masthead text-center text-white d-flex">
-      <div class="container my-auto">
-        <div class="row">
-          <div class="col-lg-10 mx-auto">
-            <h1>
-              <strong>Send your goods easily and quickly</strong>
-            </h1>
-            <hr>
+      <section id="restaurants">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h2 class="section-heading ">Top Chef Application</h2><br/>
+              <h4 class="section-subheading">This applications shows you the list of current deals, of French <strong>Michelin-Starred</strong> restaurants, that you can find on La Fourchette.</h4>
+            </div>
           </div>
-          <div class="col-lg-8 mx-auto">
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="#computeinvoice">Compute invoice</a>
-          </div>
+          <div id="filter"></div>
+          <div id="grid-cards"></div>
         </div>
-      </div>
-    </header>
+      </section>
 
-    <section class="bg-primary" id="computeinvoice">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Compute invoice</h2>
-            <hr class="my-4">
-            &nbsp;
-            <div id="trucker">
-              <div class="form-group row">
-              <label class="col-3 col-form-label">Trucker name : </label>
-              <div class="col-8">
-                <input class="name form-control" type="text" placeholder="Trucker name">
-              </div>
-            </div>
-            <div class="form-group row">
-              <label class="col-3 col-form-label">Price by km : </label>
-              <div class="col-8">
-                <input class="price-by-km form-control" type="number" placeholder="Price by km">
-              </div>
-            </div>
-            <div class="form-group row">
-              <label class="col-3 col-form-label">Price by m3 : </label>
-              <div class="col-8">
-                <input class="price-by-cubic form-control" type="number" placeholder="Price by m3">
-              </div>
-            </div>
-          </div>
+    </div>
 
-          <div id="shipper">
-              <div class="form-group row">
-              <label class="col-3 col-form-label">Shipper name : </label>
-              <div class="col-8">
-                <input class="name form-control" type="text" placeholder="Shipper name">
-              </div>
-            </div>
-            <div class="form-group row">
-              <label class="col-3 col-form-label">Distance : </label>
-              <div class="col-8">
-                <input class="distance form-control" type="number" placeholder="Distance in km">
-              </div>
-            </div>
-            <div class="form-group row">
-              <label class="col-3 col-form-label">Volume : </label>
-              <div class="col-8">
-                <input class="volume form-control" type="number" placeholder="Volume in m3">
-              </div>
-            </div>
-            <div class="form-group row">
-              <label class="col-3 col-form-label" data-toggle="tooltip" title="In case of an accident/theft, convargo applies a 1000€ deductible. The shipper can reduce the deductible amount from 1000€ to 200€ with a deductible option for a few more euros per volume. The driver is charged an additional 1€/m3 when he chooses the deductible reduction option.">Deductible option : </label>
-              <div class="col-1">
-                <input class="option" type="checkbox" placeholder="Deductible option">
-              </div>
-            </div>
-          </div>
-            <a class="btn btn-light btn-xl js-scroll-trigger" id="compute" type="submit" href="#actorssection">Compute !</a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="bg-primary" id="actorssection">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Actors</h2>
-            &nbsp;&nbsp;
-            <div></div>
-            <hr class="my-4">
-            <div class="" id="actors"></div>
-          </div>
-          &nbsp;&nbsp;
-        </div>
-
-         <div class="row">
-            <p>
-              <ul>
-                <li>the shipper must pay the shipping price and the (optional) deductible reduction</li>
-                <li>the trucker receives the shipping price minus the commission</li>
-                <li>the insurance receives its part of the commission</li>
-                <li>the Treasury receives its part of the tax commission</li>
-                <li>convargo receives its part of the commission, plus the deductible reduction</li>
-              </ul>
-            </p>
-            <p>
-              <ul>
-                <li>The commission is 30% on the shipping price</li>
-                <li>The insurance takes half of commission</li>
-                <li>The Treasury takes 1€ by 500km range</li>
-                <li>Convargo takes the rest of commission</li>
-              </ul>
-            </p>
-          </div>
-        </div>
-    </section>
-
-    <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
-
-    <!-- Custom scripts for this template -->
-    <script src="js/creative.js"></script>
-    <script src="convargo.js"></script>
-    <script src="index.js"></script>
-
-    <script>
-    $(document).ready(function(){
-        $('[data-toggle="tooltip"]').tooltip();   
-    });
-    </script>
-
+    <script src="js/script.js"></script>
   </body>
-
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
 </html>
